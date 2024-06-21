@@ -1,10 +1,10 @@
 # About Us
 
-Epicentral Labs is a small team based in the US that focuses on creating innovative solutions for on-chain problems on [Solana](https://solana.com/).
+Epicentral Labs is a small team based in the United States that focuses on creating innovative solutions for OnChain problems on [Solana](https://solana.com/).
 
 ## Our Focus
 
-Currently, we are focused on building the appropriate platform for new and existing spl-token projects to create new incentives for their community through what we like to call: [Vault-Programs](/vault-program-docs/vault-programs).
+Currently, we are focused on building the appropriate platform for new and existing spl-token projects to create new incentives for their community through what we like to call: [Vault-Programs](/vault-program-docs/introduction).
 
 ## Why do we need Docs?
 

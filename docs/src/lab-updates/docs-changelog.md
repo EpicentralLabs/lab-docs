@@ -8,9 +8,9 @@ There are **4** primary categories that may appear in specific versions: **Init,
 ## v0.0.2-beta (6/21/2024)
 ### Feature:
 * CleanUrls added via the vercel.json config. [5818130](https://github.com/TheLazySol/lab-docs/commit/58181306643437d5936fa3b74966730157cce1cc).
-* Connected appropriate domain to vercel deployment.
-* Added new section [Understanding Lab Updates](/lab-updates/understanding-lab-updates) []().
-* Reconfigured the Vault-Programs section and replaced **About** with **Introduction**. []().
+* Connected appropriate domain(s) to vercel deployment.
+* Added new section [Understanding Lab Updates](/lab-updates/understanding-lab-updates). [a59962d](https://github.com/TheLazySol/lab-docs/commit/a59962d02f7ad3eaf364ef91c25ecaf3a1d17378).
+* Reconfigured the Vault-Programs section and replaced **About** with **Introduction**. [a59962d](https://github.com/TheLazySol/lab-docs/commit/a59962d02f7ad3eaf364ef91c25ecaf3a1d17378).
 
 ### Bug Fix:
 * [About Us](/introduction/about-us) page hyperlinks are fixed. [5818130](https://github.com/TheLazySol/lab-docs/commit/58181306643437d5936fa3b74966730157cce1cc).

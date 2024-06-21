@@ -11,7 +11,7 @@ There are **4** primary categories that may appear in specific versions: **Init,
 
 ### Bug Fix:
 * [About Us](/introduction/about-us) page hyperlinks are fixed. [5818130](https://github.com/TheLazySol/lab-docs/commit/58181306643437d5936fa3b74966730157cce1cc).
-* Minor grammatical and formatting fix. []().
+* Minor grammatical and formatting fix. [8001b34](https://github.com/TheLazySol/lab-docs/commit/8001b3478cca94a3686ecd53d39fff5cc18ef231).
 
 ## v0.0.1-beta (6/20/2024)
 ### Init:

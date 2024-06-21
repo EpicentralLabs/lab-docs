@@ -8,7 +8,11 @@ export default defineConfig({
   themeConfig: {
     nav: [
       { text: 'Home', link: '/' },
-      { text: 'Official Website', link: 'https://www.vaultifi.org/' }
+      { text: '0.0.1-beta',
+        items: [
+          { text: 'Docs Changlogs', link: '/lab-updates/docs-changelog'}
+        ]
+       }
     ],
 
     sidebar: [

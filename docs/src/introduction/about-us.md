@@ -4,7 +4,7 @@ Epicentral Labs is a small team based in the US that focuses on creating innovat
 
 ## Our Focus
 
-Currently, we are focused on building the appropriate platform for new and existing spl-token projects to create new incentives for their community through what we like to call: [Vault-Programs](./vault-programs).
+Currently, we are focused on building the appropriate platform for new and existing spl-token projects to create new incentives for their community through what we like to call: [Vault-Programs](/vault-program-docs/vault-programs).
 
 ## Why do we need Docs?
 

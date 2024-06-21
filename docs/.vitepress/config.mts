@@ -2,13 +2,17 @@ import { defineConfig } from 'vitepress'
 
 export default defineConfig({
   title: "Epicentral Labs",
-  description: "Documentation",
+  description: "Accelerate Project Incentives",
   ignoreDeadLinks: true,
   srcDir: './src',
   themeConfig: {
     nav: [
       { text: 'Home', link: '/' },
-      { text: 'Official Website', link: 'https://www.vaultifi.org/' }
+      { text: '0.0.2-beta',
+        items: [
+          { text: 'Docs Changlogs', link: '/lab-updates/docs-changelog'}
+        ]
+       }
     ],
 
     sidebar: [
@@ -19,9 +23,9 @@ export default defineConfig({
         ]
       },
       {
-        text: 'Vault-Program',
+        text: 'Vault-Programs',
         items: [
-          { text: 'About', link: '/vault-program-docs/vault-programs' }
+          { text: 'Introduction', link: '/vault-program-docs/introduction' }
         ]
       },
       {
@@ -35,9 +39,10 @@ export default defineConfig({
       {
         text: 'Lab Updates',
         items: [
-          { text: 'Changelog[Docs]', link: '/lab-updates/docs-changelog' },
-          { text: 'Changelog[Website]', link: '/lab-updates/website-changelog' },
-          { text: 'Changelog[Vault-Programs]', link: '/lab-updates/vault-program-changelog' }
+          { text: 'Understanding Lab Updates', link: '/lab-updates/understanding-lab-updates.md' },
+          { text: 'Changelog [Docs]', link: '/lab-updates/docs-changelog' },
+          { text: 'Changelog [Website]', link: '/lab-updates/website-changelog' },
+          { text: 'Changelog [Vault-Programs]', link: '/lab-updates/vault-program-changelog' }
         ]
       }
     ],

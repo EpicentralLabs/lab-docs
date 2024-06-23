@@ -4,9 +4,16 @@ Most recent version will be presented at the top of the page. All changes made t
 
 There are **4** primary categories that may appear in specific versions: **Init, Remove, Bug Fix(es), and Features**.
 
+## v0.0.3-beta (6/23/2024)
+### Features
+* Vault-Programs [Introduction](/vault-program-docs/introduction) Page completed. []()
+* Vault-Programs [Understanding Vaults](/vault-program-docs/understanding-vaults) Page completed. []()
+* Vault-Programs [Fees](/vault-program-docs/vault-fees) Page completed. []()
+* Vault-Programs [FAQs](/vault-program-docs/vault-faqs) Page created. []()
+* Created & completed [Terminology](/terminology) Page. []()
 
 ## v0.0.2-beta (6/21/2024)
-### Feature:
+### Features:
 * CleanUrls added via the vercel.json config. [5818130](https://github.com/TheLazySol/lab-docs/commit/58181306643437d5936fa3b74966730157cce1cc).
 * Connected appropriate domain(s) to vercel deployment.
 * Added new section [Understanding Lab Updates](/lab-updates/understanding-lab-updates). [a59962d](https://github.com/TheLazySol/lab-docs/commit/a59962d02f7ad3eaf364ef91c25ecaf3a1d17378).

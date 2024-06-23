@@ -6,11 +6,11 @@ There are **4** primary categories that may appear in specific versions: **Init,
 
 ## v0.0.3-beta (6/23/2024)
 ### Features
-* Vault-Programs [Introduction](/vault-program-docs/introduction) Page completed. []()
-* Vault-Programs [Understanding Vaults](/vault-program-docs/understanding-vaults) Page completed. []()
-* Vault-Programs [Fees](/vault-program-docs/vault-fees) Page completed. []()
-* Vault-Programs [FAQs](/vault-program-docs/vault-faqs) Page created. []()
-* Created & completed [Terminology](/terminology) Page. []()
+* Vault-Programs [Introduction](/vault-program-docs/introduction) Page completed. [da7de12](https://github.com/TheLazySol/lab-docs/commit/da7de12ca3b420b6aaaba60c361469441cbd752d)
+* Vault-Programs [Understanding Vaults](/vault-program-docs/understanding-vaults) Page completed. [da7de12](https://github.com/TheLazySol/lab-docs/commit/da7de12ca3b420b6aaaba60c361469441cbd752d)
+* Vault-Programs [Fees](/vault-program-docs/vault-fees) Page completed. [da7de12](https://github.com/TheLazySol/lab-docs/commit/da7de12ca3b420b6aaaba60c361469441cbd752d)
+* Vault-Programs [FAQs](/vault-program-docs/vault-faqs) Page created. [da7de12](https://github.com/TheLazySol/lab-docs/commit/da7de12ca3b420b6aaaba60c361469441cbd752d)
+* Created & completed [Terminology](/terminology) Page. [da7de12](https://github.com/TheLazySol/lab-docs/commit/da7de12ca3b420b6aaaba60c361469441cbd752d)
 
 ## v0.0.2-beta (6/21/2024)
 ### Features:

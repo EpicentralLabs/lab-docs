@@ -12,7 +12,7 @@ It is important to understand how Vaults work and how Users as well as [Vault Cr
 
 A "Vault" is a custom [Solana program](/terminology#solana-program) that acts as a savings account for participating [token programs](https://spl.solana.com/token) and behaves similarly to a staking program. A Vault [rewards](/terminology#rewards) users and spl-token projects by paying out depositors, providing project sustainability, and creating spl-token utility.
 
-![VFI-Vault Example](./public/VFI-vault-example-mock-up.png)
+<img src="/VFI-vault-example-mock-up.png" alt="VFI-Vault_example" width="50%" height="50%" />
 *VFI-Vault dApp example. This UI design concept may change. (4/8/2024)*
 
 Every Vault will showcase important information needed for the user to know, including but not limited to:
@@ -34,7 +34,7 @@ When users deposit tokens into a Vault, they are rewarded the same token after t
 *It is important to know that the [Reward Cycle](/terminology#reward-cycle) for the **RF** timer will reset if a withdrawal occurs before the RF timer hits zero. This is to prevent users from depositing seconds before a reward is paid out followed by a quick withdrawal.* 
 :::
 
-![Rewards Flowchart Example](./public/reward-payout-flowchart.avif)
+<img src="/reward-payout-flowchart.avif" alt="Reward Payout Flowchart" width="150%" height="150%" />
 *Reward Frequency / Rewards Payout Flowchart Diagram (4/8/2024)*
 
 ## 3. Vault APY

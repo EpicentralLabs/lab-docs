@@ -4,6 +4,11 @@ Most recent version will be presented at the top of the page. All changes made t
 
 There are **4** primary categories that may appear in specific versions: **Init, Remove, Bug Fix(es), and Features**.
 
+## v0.1.0 (7/1/2024)
+### Features
+* Images are fixed and updated. []()
+* Official Release of the documentation site! 
+
 ## v0.0.3-beta (6/23/2024)
 ### Features
 * Vault-Programs [Introduction](/vault-program-docs/introduction) Page completed. [da7de12](https://github.com/TheLazySol/lab-docs/commit/da7de12ca3b420b6aaaba60c361469441cbd752d)

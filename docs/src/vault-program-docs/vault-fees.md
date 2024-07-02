@@ -26,4 +26,4 @@ The only fee a user should expect to pay is **only for withdrawal**. There are n
 | :-------: | :-------: | :-------: |
 | Is redistributed back into the [Reward Pool](/terminology#predetermined-reward-pool) to ensure longer sustainability. | This portion by default goes to the [Vault Creator](/terminology#vault-creator). Whether that be an individual wallet or a [DAO](/terminology#decentralized-autonomous-organization-dao). | This portion by default is routed to the associated Vault. However, it can also be be allocated to any other address. |
 
-![Single-Vault-Program](./public/single-vault-program-flowchart.avif)
+<img src="/single-vault-program-flowchart.avif" alt="Reward Payout Flowchart" width="150%" height="150%" />

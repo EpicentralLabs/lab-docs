@@ -20,7 +20,8 @@ export default defineConfig({
         text: 'Introduction',
         items: [
           { text: 'About Us', link: '/introduction/about-us' },
-          { text: 'Terminology', link: '/terminology' }
+          { text: 'Terminology', link: '/terminology' },
+          { text: 'LABS Token', link: '/introduction/labstoken'}
         ]
       },
       {
@@ -35,7 +36,7 @@ export default defineConfig({
       {
         text: 'Links',
         items: [
-          { text: 'Epicentral Labs Website', link: 'https://www.vaultifi.org/' },
+          { text: 'Epicentral Labs Website', link: 'https://docs.epicentrallabs.com/' },
           { text: 'X (Twitter)', link: 'https://x.com/EpicentralLabs' },
           { text: 'GitHub', link: 'https://github.com/EpicentralLabs' }
         ]

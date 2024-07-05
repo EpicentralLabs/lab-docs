@@ -4,6 +4,10 @@ Most recent version will be presented at the top of the page. All changes made t
 
 There are **4** primary categories that may appear in specific versions: **Init, Remove, Bug Fix(es), and Features**.
 
+## v0.1.1 (7/5/2024)
+### Features
+* LABS Token page created 
+
 ## v0.1.0 (7/1/2024)
 ### Features
 * Images are fixed and updated. [de4c6ac](https://github.com/TheLazySol/lab-docs/commit/de4c6ac7cb05d886c352e8880277566c9e433916)

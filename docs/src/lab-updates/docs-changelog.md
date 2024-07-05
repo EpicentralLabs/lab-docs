@@ -6,7 +6,7 @@ There are **4** primary categories that may appear in specific versions: **Init,
 
 ## v0.1.1 (7/5/2024)
 ### Features
-* LABS Token page created 
+* LABS Token page created. [6aadf62](https://github.com/TheLazySol/lab-docs/commit/6aadf62ee3b4849eb7ad5b3c1c97187d430b03e1)
 
 ## v0.1.0 (7/1/2024)
 ### Features

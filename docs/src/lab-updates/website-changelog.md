@@ -14,6 +14,7 @@ There are **4** primary categories that may appear in specific versions: **Added
 * Added Discord Link under "Links" Category on vertical navbar. [6171f04](https://github.com/TheLazySol/lab-docs/commit/6171f04555587f0315729c58c0c6aed7130ae14c)
 * Added banners to pages/categories. [6171f04](https://github.com/TheLazySol/lab-docs/commit/6171f04555587f0315729c58c0c6aed7130ae14c)
 * Added 'Join our Discord' Button on Home/Hero Page. [6171f04](https://github.com/TheLazySol/lab-docs/commit/6171f04555587f0315729c58c0c6aed7130ae14c)
+* Added LABS Token Launch Date. []()
 ### Removed:
 * Website Changelog page removed in the vertical nav bar. [6171f04](https://github.com/TheLazySol/lab-docs/commit/6171f04555587f0315729c58c0c6aed7130ae14c)
 * Removed item list on "Vault-Explained" page. [6171f04](https://github.com/TheLazySol/lab-docs/commit/6171f04555587f0315729c58c0c6aed7130ae14c)

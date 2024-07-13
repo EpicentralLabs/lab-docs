@@ -2,6 +2,11 @@
 ###
 <img src="/LABS-Token-Banner.png" alt="LABS Token Banner">
 
+::: tip Launch Date:
+### 07/26/2024 @ 00:00 UTC
+### 
+:::
+
 ## About LABS
 
 ***LABS*** is a governance and utility token that is used for decision making, project focuses, voting, and much more. ***LABS*** will be integrated with various protocols such as:

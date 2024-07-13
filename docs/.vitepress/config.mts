@@ -8,9 +8,9 @@ export default defineConfig({
   themeConfig: {
     nav: [
       { text: 'Home', link: '/' },
-      { text: 'v0.1.0',
+      { text: 'v0.1.1',
         items: [
-          { text: 'Docs Changlogs', link: '/lab-updates/docs-changelog'}
+          { text: 'Website Changlogs', link: '/lab-updates/docs-changelog'}
         ]
        }
     ],
@@ -20,14 +20,15 @@ export default defineConfig({
         text: 'Introduction',
         items: [
           { text: 'About Us', link: '/introduction/about-us' },
-          { text: 'Terminology', link: '/terminology' }
+          { text: 'Terminology', link: '/terminology' },
+          { text: 'LABS Token', link: '/introduction/labstoken'}
         ]
       },
       {
         text: 'Vault-Programs',
         items: [
           { text: 'Introduction', link: '/vault-program-docs/introduction' },
-          { text: 'Understanding Vaults', link: '/vault-program-docs/understanding-vaults' },
+          { text: 'Vaults-Explained', link: '/vault-program-docs/understanding-vaults' },
           { text: 'Fees', link: '/vault-program-docs/vault-fees' },
           { text: 'FAQs', link: '/vault-program-docs/vault-faqs' }
         ]
@@ -35,8 +36,9 @@ export default defineConfig({
       {
         text: 'Links',
         items: [
-          { text: 'Epicentral Labs Website', link: 'https://www.vaultifi.org/' },
+          { text: 'Epicentral Labs Website', link: 'https://docs.epicentrallabs.com/' },
           { text: 'X (Twitter)', link: 'https://x.com/EpicentralLabs' },
+          { text: 'Discord', link: 'https://discord.gg/5asAuY2sR8'},
           { text: 'GitHub', link: 'https://github.com/EpicentralLabs' }
         ]
       },
@@ -44,7 +46,6 @@ export default defineConfig({
         text: 'Lab Updates',
         items: [
           { text: 'Understanding Lab Updates', link: '/lab-updates/understanding-lab-updates.md' },
-          { text: 'Changelog [Docs]', link: '/lab-updates/docs-changelog' },
           { text: 'Changelog [Website]', link: '/lab-updates/website-changelog' },
           { text: 'Changelog [Vault-Programs]', link: '/lab-updates/vault-program-changelog' }
         ]

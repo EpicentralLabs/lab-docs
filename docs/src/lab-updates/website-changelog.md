@@ -8,24 +8,22 @@ There are **4** primary categories that may appear in specific versions: **Added
 ### Added:
 * LABS Token page created. [6aadf62](https://github.com/TheLazySol/lab-docs/commit/6aadf62ee3b4849eb7ad5b3c1c97187d430b03e1)
 * LABS Tokenomics explained and Vesting Schedule is implemented into the page. [d13400e](https://github.com/TheLazySol/lab-docs/commit/d13400e67da638ddef61e6e75a30bbb28a8f5aa7)
-* Token Accumulation & Circulation Graphs added.
-* Vesting Schedule & Vesting Schedule (Cumulative) Graphs added.
-* LABS Vesting Table Chart Added.
-* Added Discord Link under "Links" Category on vertical navbar.
-* Added banners to pages/categories.
-* Added 'Join our Discord' Button on Home/Hero Page.
+* Token Accumulation & Circulation Graphs added. [6171f04](https://github.com/TheLazySol/lab-docs/commit/6171f04555587f0315729c58c0c6aed7130ae14c)
+* Vesting Schedule & Vesting Schedule (Cumulative) Graphs added. [6171f04](https://github.com/TheLazySol/lab-docs/commit/6171f04555587f0315729c58c0c6aed7130ae14c)
+* LABS Vesting Table Chart Added. [6171f04](https://github.com/TheLazySol/lab-docs/commit/6171f04555587f0315729c58c0c6aed7130ae14c)
+* Added Discord Link under "Links" Category on vertical navbar. [6171f04](https://github.com/TheLazySol/lab-docs/commit/6171f04555587f0315729c58c0c6aed7130ae14c)
+* Added banners to pages/categories. [6171f04](https://github.com/TheLazySol/lab-docs/commit/6171f04555587f0315729c58c0c6aed7130ae14c)
+* Added 'Join our Discord' Button on Home/Hero Page. [6171f04](https://github.com/TheLazySol/lab-docs/commit/6171f04555587f0315729c58c0c6aed7130ae14c)
 ### Removed:
-* Website Changelog page removed in the vertical nav bar.
-* Removed item list on "Vault-Explained" page.
+* Website Changelog page removed in the vertical nav bar. [6171f04](https://github.com/TheLazySol/lab-docs/commit/6171f04555587f0315729c58c0c6aed7130ae14c)
+* Removed item list on "Vault-Explained" page. [6171f04](https://github.com/TheLazySol/lab-docs/commit/6171f04555587f0315729c58c0c6aed7130ae14c)
 ### Changes:
-* Hero Page title colors updated.
-* Renamed Docs Changelogs to "Website Changelog" and its categories. 
-* Updated 'About Us' Section.
-* Added Solana Protocol Chart to 'Vault-Programs' introduction section.
-* Hyperlinks to terminology page added throughout the site.
-* Replaced 'Understanding Vaults' to 'Vaults-Explained' 
-
-
+* Hero Page title colors updated. [6171f04](https://github.com/TheLazySol/lab-docs/commit/6171f04555587f0315729c58c0c6aed7130ae14c)
+* Renamed Docs Changelogs to "Website Changelog" and its categories. [6171f04](https://github.com/TheLazySol/lab-docs/commit/6171f04555587f0315729c58c0c6aed7130ae14c)
+* Updated 'About Us' Section. [6171f04](https://github.com/TheLazySol/lab-docs/commit/6171f04555587f0315729c58c0c6aed7130ae14c)
+* Added Solana Protocol Chart to 'Vault-Programs' introduction section. [6171f04](https://github.com/TheLazySol/lab-docs/commit/6171f04555587f0315729c58c0c6aed7130ae14c)
+* Hyperlinks to terminology page added throughout the site. [6171f04](https://github.com/TheLazySol/lab-docs/commit/6171f04555587f0315729c58c0c6aed7130ae14c)
+* Replaced 'Understanding Vaults' to 'Vaults-Explained'. [6171f04](https://github.com/TheLazySol/lab-docs/commit/6171f04555587f0315729c58c0c6aed7130ae14c)
 
 ## v0.1.0 (7/1/2024)
 ### Added:

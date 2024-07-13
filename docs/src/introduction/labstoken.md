@@ -36,11 +36,11 @@ This portion is set aside for the [DAO](/terminology#decentralized-autonomous-or
 :::
 
 ::: details Team & Advisors --> *3,279,156 LABS*
-The Team and Advisors consist of the developers, internal investors, friends and advisors that have helped develop Epicentral Labs into what it is today. This amount is Vested over 18 months.
+The Team and Advisors consist of the developers, internal investors, friends and advisors that have helped develop Epicentral Labs into what it is today. This amount is Vested over 14 months.
 :::
 
 ::: details Marketing --> *2,732,630 LABS* 
-This is allocated for marketing purposes only. Including but not limited to airdrops, giveaways, competitions, sponsorships, partnerships, grants, and more! The marketing allocation is vested over 3 months. Shorter timeframe largely due to the tokens needed to accelerate growth effectively.
+This is allocated for marketing purposes only. Including but not limited to airdrops, giveaways, competitions, sponsorships, partnerships, grants, and more! The marketing allocation is vested over 2 months. Shorter timeframe largely due to the tokens needed to accelerate growth effectively.
 :::
 
 ::: details Community Bonuses --> *1,639,578 LABS*
@@ -62,8 +62,8 @@ For all of our visual learners out there, below is a stacked bar chart showcasin
 | **Allocation:** | **Grant Amount** | **Quanity Released / Month:** | **Vesting Period:** | **Rate:** | **Amount Already Released:** |
 |:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|
 | LABS-Vault Reward Pool: | **0** | **910,877** | 12 Months | Once per month | **0** |
-| DAO Treasury: | **1,457,402** | **728,701** | 11 Months | Once per month | **0** |
-| Team & Advisors: | **364,356*** | **182,175** | 16 Months | Once per month | **0** |
+| DAO Treasury: | **1,457,402** | **728,701** | 12 Months | Once per month | **0** |
+| Team & Advisors: | **364,356*** | **182,175** | 14 Months | Once per month | **0** |
 | Marketing: | **910,877** | **910,877** | 2 Months | Once per month | **0** |
 | Community Bonuses: | **0** | **273,263** | 6 Months | Twice per month | **0** |
 

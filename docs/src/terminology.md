@@ -1,5 +1,6 @@
-# Terminology
+<img src="/Terminology-Banner.png">
 
+##
 All important keywords used in this documentation are listed here for ease of access. Think of it as the projects dictionary:
 
 ## Annual Percentrage Yield (APY)

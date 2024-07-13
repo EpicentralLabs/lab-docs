@@ -1,4 +1,6 @@
-# Understanding Vaults
+#
+
+<img src="/Vaults-Explained.png">
 
 [[toc]]
 

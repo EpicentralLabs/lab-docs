@@ -1,8 +1,4 @@
-#
-
-<img src="/Vaults-Explained.png">
-
-[[toc]]
+# Vaults Explained
 
 ## Introduction
 

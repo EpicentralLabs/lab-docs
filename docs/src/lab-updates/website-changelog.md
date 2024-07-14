@@ -4,7 +4,14 @@ Most recent version will be presented at the top of the page. All changes made t
 
 There are **4** primary categories that may appear in specific versions: **Added, Remove(d), Bug Fix(es), and Changes**. *(Listed in that order).*
 
-## v0.1.1 (7/13/2024)
+## v0.2.1 (7/13/2024)
+### Removed:
+* Removed Page banners as they looked cheap. [a96dd85](https://github.com/TheLazySol/lab-docs/commit/a96dd85db86dde5491bd24b3eba5c641d624aec1)
+### Bug Fixes:
+* Fixed removal of item list on 'Vaults-Explained' Page. [a96dd85](https://github.com/TheLazySol/lab-docs/commit/a96dd85db86dde5491bd24b3eba5c641d624aec1)
+* Fixed "Understanding Lab Updates" semantic versioning "patch" example. [a96dd85](https://github.com/TheLazySol/lab-docs/commit/a96dd85db86dde5491bd24b3eba5c641d624aec1)
+
+## v0.2.0 (7/13/2024)
 ### Added:
 * LABS Token page created. [6aadf62](https://github.com/TheLazySol/lab-docs/commit/6aadf62ee3b4849eb7ad5b3c1c97187d430b03e1)
 * LABS Tokenomics explained and Vesting Schedule is implemented into the page. [d13400e](https://github.com/TheLazySol/lab-docs/commit/d13400e67da638ddef61e6e75a30bbb28a8f5aa7)

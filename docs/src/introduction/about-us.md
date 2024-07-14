@@ -1,6 +1,5 @@
-<img src="/About-Us-Banner.png">
+# About Us
 
-##
 ***Epicentral Labs*** is a small team based in the United States that focuses on creating innovative solutions for OnChain problems including but not limited to integrating DeFi, Tokenization, and Real World Applications with [Solana](https://solana.com/). 
 
 ## Our Focus

@@ -15,6 +15,6 @@ MAJOR.MINOR.PATCH
 
 ```v0.1.0``` = Minor Change
 
-```v1.0.0``` = Patch
+```v0.0.1``` = Patch
 
 ```v0.0.1-beta``` = Beta Release(s)

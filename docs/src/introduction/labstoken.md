@@ -1,6 +1,4 @@
 # LABS Token
-###
-<img src="/LABS-Token-Banner.png" alt="LABS Token Banner">
 
 ::: tip Launch Date:
 ### 07/26/2024 @ 00:00 UTC

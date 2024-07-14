@@ -6,10 +6,10 @@ There are **4** primary categories that may appear in specific versions: **Added
 
 ## v0.2.1 (7/13/2024)
 ### Removed:
-* Removed Page banners as they looked cheap.
+* Removed Page banners as they looked cheap. [a96dd85](https://github.com/TheLazySol/lab-docs/commit/a96dd85db86dde5491bd24b3eba5c641d624aec1)
 ### Bug Fixes:
-* Fixed removal of item list on 'Vaults-Explained' Page
-* Fixed "Understanding Lab Updates" semantic versioning "patch" example. 
+* Fixed removal of item list on 'Vaults-Explained' Page. [a96dd85](https://github.com/TheLazySol/lab-docs/commit/a96dd85db86dde5491bd24b3eba5c641d624aec1)
+* Fixed "Understanding Lab Updates" semantic versioning "patch" example. [a96dd85](https://github.com/TheLazySol/lab-docs/commit/a96dd85db86dde5491bd24b3eba5c641d624aec1)
 
 ## v0.2.0 (7/13/2024)
 ### Added:

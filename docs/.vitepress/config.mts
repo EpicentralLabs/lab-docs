@@ -53,8 +53,8 @@ export default defineConfig({
     ],
 
     socialLinks: [
-      { icon: 'twitter', link: `https://x.com/VaultiFi`},
-      { icon: 'github', link: 'https://github.com/vuejs/vitepress' }
+      { icon: 'twitter', link: `https://x.com/EpicentralLabs`},
+      { icon: 'github', link: 'https://github.com/EpicentralLabs' }
     ]
   }
 })

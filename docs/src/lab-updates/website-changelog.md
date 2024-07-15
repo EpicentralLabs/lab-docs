@@ -6,7 +6,7 @@ There are **4** primary categories that may appear in specific versions: **Added
 
 ## v0.2.2 (7/15/2024)
 ### Bug Fixes:
-* Fixed Socials Icons hyperlinks to direct the user to the correct website. 
+* Fixed Socials Icons hyperlinks to direct the user to the correct website. [e691b20](https://github.com/TheLazySol/lab-docs/commit/e691b204ce282934995c279ea9f58293f70936a9)
 
 ## v0.2.1 (7/13/2024)
 ### Removed:

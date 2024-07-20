@@ -4,6 +4,10 @@ Most recent version will be presented at the top of the page. All changes made t
 
 There are **4** primary categories that may appear in specific versions: **Added, Remove(d), Bug Fix(es), and Changes**. *(Listed in that order).*
 
+## v.2.3 (7/20/2024)
+### Bug Fix:
+* Fixed dropdown menu and updated version number for the website. [d7b0da1](https://github.com/TheLazySol/lab-docs/commit/d7b0da1822492c3340ea4b6ae623e7187b683075)
+
 ## v0.2.2 (7/15/2024)
 ### Bug Fixes:
 * Fixed Socials Icons hyperlinks to direct the user to the correct website. [e691b20](https://github.com/TheLazySol/lab-docs/commit/e691b204ce282934995c279ea9f58293f70936a9)

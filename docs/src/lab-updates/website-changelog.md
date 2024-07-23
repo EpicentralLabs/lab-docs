@@ -6,7 +6,7 @@ There are **4** primary categories that may appear in specific versions: **Added
 
 ## v0.2.4 (7/22/2024)
 ### Bug Fix:
-* Fixed semantic versioning typo error in Website Changelog page.
+* Fixed semantic versioning typo error in Website Changelog page. [1925a32](https://github.com/TheLazySol/lab-docs/commit/1925a323af9be4f6ba57a784f6aab16e656375e8)
 
 ## v0.2.3 (7/20/2024)
 ### Bug Fix:

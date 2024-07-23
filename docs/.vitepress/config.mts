@@ -10,7 +10,7 @@ export default defineConfig({
       { text: 'Home', link: '/' },
       { text: 'v0.2.3',
         items: [
-          { text: 'Website Changlogs', link: '/lab-updates/website-changelog'}
+          { text: 'Website Changlogs', link: '/lab-updates/website-changelog' }
         ]
        }
     ],
@@ -21,7 +21,7 @@ export default defineConfig({
         items: [
           { text: 'About Us', link: '/introduction/about-us' },
           { text: 'Terminology', link: '/terminology' },
-          { text: 'LABS Token', link: '/introduction/labstoken'}
+          { text: 'LABS Token', link: '/introduction/labstoken' }
         ]
       },
       {
@@ -38,7 +38,7 @@ export default defineConfig({
         items: [
           { text: 'Epicentral Labs Website', link: 'https://docs.epicentrallabs.com/' },
           { text: 'X (Twitter)', link: 'https://x.com/EpicentralLabs' },
-          { text: 'Discord', link: 'https://discord.gg/5asAuY2sR8'},
+          { text: 'Discord', link: 'https://discord.gg/5asAuY2sR8' },
           { text: 'GitHub', link: 'https://github.com/EpicentralLabs' }
         ]
       },
@@ -53,7 +53,7 @@ export default defineConfig({
     ],
 
     socialLinks: [
-      { icon: 'twitter', link: `https://x.com/EpicentralLabs`},
+      { icon: 'twitter', link: `https://x.com/EpicentralLabs` },
       { icon: 'github', link: 'https://github.com/EpicentralLabs' }
     ]
   }

@@ -6,7 +6,7 @@ There are **4** primary categories that may appear in specific versions: **Added
 
 ## v0.2.5 (7/23/2024)
 ### Bug Fix: 
-* Fixed versioning error in top right of the website changelog dropdown menu. []() 
+* Fixed versioning error in top right of the website changelog dropdown menu. [f7026d3](https://github.com/TheLazySol/lab-docs/commit/f7026d3528e4d6087423a9bccda76195da103e42) 
 
 ## v0.2.4 (7/22/2024)
 ### Bug Fix:

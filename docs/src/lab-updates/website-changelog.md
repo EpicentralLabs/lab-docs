@@ -6,7 +6,7 @@ There are **4** primary categories that may appear in specific versions: **Added
 
 ## v0.2.6 (7/24/2024)
 ### Changes:
-* Updated "Introduction>About Us" page with more information.
+* Updated "Introduction>About Us" page with more information. [62dd46e](https://github.com/TheLazySol/lab-docs/commit/62dd46ed92e67c1154f2223c33b16f5ec6ced8ef)
 
 ## v0.2.5 (7/23/2024)
 ### Bug Fix: 

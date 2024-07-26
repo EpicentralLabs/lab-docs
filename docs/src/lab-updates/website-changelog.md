@@ -4,17 +4,17 @@ Most recent version will be presented at the top of the page. All changes made t
 
 ## v0.3.0 (7/26/2024)
 ### Removed:
-* LABS Token "Launch Date" banner removed for simplicity.
+* LABS Token "Launch Date" banner removed for simplicity. [47a8369](https://github.com/TheLazySol/lab-docs/commit/47a8369d14175eb110d2e4b5ffabbcd2f69db9b8)
 ### Bug Fix:
-* Updated "init" -> "Added" on [Changelog - Vault-Programs](/lab-updates/vault-program-changelog.html) page to follow *The Primary Category Naming* guideline.
+* Updated "init" -> "Added" on [Changelog - Vault-Programs](/lab-updates/vault-program-changelog.html) page to follow *The Primary Category Naming* guideline. [47a8369](https://github.com/TheLazySol/lab-docs/commit/47a8369d14175eb110d2e4b5ffabbcd2f69db9b8)
 ### Changes:
-* [LABS Vesting Table Chart](/introduction/labstoken#labs-vesting-table-chart): "Grant Amount" to "Cliff Amount" as it is a Cliff Vesting Contract.
-* [LABS Vesting Table Chart](/introduction/labstoken#labs-vesting-table-chart): Community Bonuses: Cliff Amount changed to 273,263 and reduced Vesting Period to from 6 months -> 5 months.
-* [LABS Vesting Table Chart](/introduction/labstoken#labs-vesting-table-chart): Community Bonuses: Rate changed from Twice per month -> Once per month. This was a calculated mistake now realized and fixed. 
-* Updated Vesting Schedule Graphs to coalign with the *LABS Vesting Table Chart* and changed "Launch" for Month 1 to "Cliff" for accuracy. 
-* "Liquidity Pool" details drop down on **LABS Token*** page, information changed and updated where all LP tokens will be burned.
-* "Community Bonuses" details dropdown on **LABS Token** page, information changed and updated to correct vesting time period of 5 months instead of 6.
-* Renamed changelog *The Primary Category Naming* for simplicity and moved guideline to [Understanding Lab Updates](/lab-updates/understanding-lab-updates) page.
+* [LABS Vesting Table Chart](/introduction/labstoken#labs-vesting-table-chart): "Grant Amount" to "Cliff Amount" as it is a Cliff Vesting Contract. [47a8369](https://github.com/TheLazySol/lab-docs/commit/47a8369d14175eb110d2e4b5ffabbcd2f69db9b8)
+* [LABS Vesting Table Chart](/introduction/labstoken#labs-vesting-table-chart): Community Bonuses: Cliff Amount changed to 273,263 and reduced Vesting Period to from 6 months -> 5 months. [47a8369](https://github.com/TheLazySol/lab-docs/commit/47a8369d14175eb110d2e4b5ffabbcd2f69db9b8)
+* [LABS Vesting Table Chart](/introduction/labstoken#labs-vesting-table-chart): Community Bonuses: Rate changed from Twice per month -> Once per month. This was a calculated mistake now realized and fixed. [47a8369](https://github.com/TheLazySol/lab-docs/commit/47a8369d14175eb110d2e4b5ffabbcd2f69db9b8)
+* Updated Vesting Schedule Graphs to coalign with the *LABS Vesting Table Chart* and changed "Launch" for Month 1 to "Cliff" for accuracy. [47a8369](https://github.com/TheLazySol/lab-docs/commit/47a8369d14175eb110d2e4b5ffabbcd2f69db9b8)
+* "Liquidity Pool" details drop down on **LABS Token*** page, information changed and updated where all LP tokens will be burned. [47a8369](https://github.com/TheLazySol/lab-docs/commit/47a8369d14175eb110d2e4b5ffabbcd2f69db9b8)
+* "Community Bonuses" details dropdown on **LABS Token** page, information changed and updated to correct vesting time period of 5 months instead of 6. [47a8369](https://github.com/TheLazySol/lab-docs/commit/47a8369d14175eb110d2e4b5ffabbcd2f69db9b8)
+* Renamed changelog *The Primary Category Naming* for simplicity and moved guideline to [Understanding Lab Updates](/lab-updates/understanding-lab-updates) page. [47a8369](https://github.com/TheLazySol/lab-docs/commit/47a8369d14175eb110d2e4b5ffabbcd2f69db9b8)
 
 ## v0.2.6 (7/24/2024)
 ### Changes:

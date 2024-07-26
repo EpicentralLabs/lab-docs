@@ -2,7 +2,19 @@
 
 Most recent version will be presented at the top of the page. All changes made to the website/documentation pages is posted here. With all/any new releases made on GitHub, the description of what has changed is listed here. 
 
-There are **4** primary categories that may appear in specific versions: **Added, Remove(d), Bug Fix(es), and Changes**. *(Listed in that order).*
+## v0.3.0 (7/26/2024)
+### Removed:
+* LABS Token "Launch Date" banner removed for simplicity. [47a8369](https://github.com/TheLazySol/lab-docs/commit/47a8369d14175eb110d2e4b5ffabbcd2f69db9b8)
+### Bug Fix:
+* Updated "init" -> "Added" on [Changelog - Vault-Programs](/lab-updates/vault-program-changelog.html) page to follow *The Primary Category Naming* guideline. [47a8369](https://github.com/TheLazySol/lab-docs/commit/47a8369d14175eb110d2e4b5ffabbcd2f69db9b8)
+### Changes:
+* [LABS Vesting Table Chart](/introduction/labstoken#labs-vesting-table-chart): "Grant Amount" to "Cliff Amount" as it is a Cliff Vesting Contract. [47a8369](https://github.com/TheLazySol/lab-docs/commit/47a8369d14175eb110d2e4b5ffabbcd2f69db9b8)
+* [LABS Vesting Table Chart](/introduction/labstoken#labs-vesting-table-chart): Community Bonuses: Cliff Amount changed to 273,263 and reduced Vesting Period to from 6 months -> 5 months. [47a8369](https://github.com/TheLazySol/lab-docs/commit/47a8369d14175eb110d2e4b5ffabbcd2f69db9b8)
+* [LABS Vesting Table Chart](/introduction/labstoken#labs-vesting-table-chart): Community Bonuses: Rate changed from Twice per month -> Once per month. This was a calculated mistake now realized and fixed. [47a8369](https://github.com/TheLazySol/lab-docs/commit/47a8369d14175eb110d2e4b5ffabbcd2f69db9b8)
+* Updated Vesting Schedule Graphs to coalign with the *LABS Vesting Table Chart* and changed "Launch" for Month 1 to "Cliff" for accuracy. [47a8369](https://github.com/TheLazySol/lab-docs/commit/47a8369d14175eb110d2e4b5ffabbcd2f69db9b8)
+* "Liquidity Pool" details drop down on **LABS Token*** page, information changed and updated where all LP tokens will be burned. [47a8369](https://github.com/TheLazySol/lab-docs/commit/47a8369d14175eb110d2e4b5ffabbcd2f69db9b8)
+* "Community Bonuses" details dropdown on **LABS Token** page, information changed and updated to correct vesting time period of 5 months instead of 6. [47a8369](https://github.com/TheLazySol/lab-docs/commit/47a8369d14175eb110d2e4b5ffabbcd2f69db9b8)
+* Renamed changelog *The Primary Category Naming* for simplicity and moved guideline to [Understanding Lab Updates](/lab-updates/understanding-lab-updates) page. [47a8369](https://github.com/TheLazySol/lab-docs/commit/47a8369d14175eb110d2e4b5ffabbcd2f69db9b8)
 
 ## v0.2.6 (7/24/2024)
 ### Changes:
@@ -21,13 +33,13 @@ There are **4** primary categories that may appear in specific versions: **Added
 * Fixed dropdown menu and updated version number for the website. [d7b0da1](https://github.com/TheLazySol/lab-docs/commit/d7b0da1822492c3340ea4b6ae623e7187b683075)
 
 ## v0.2.2 (7/15/2024)
-### Bug Fixes:
+### Bug Fix:
 * Fixed Socials Icons hyperlinks to direct the user to the correct website. [e691b20](https://github.com/TheLazySol/lab-docs/commit/e691b204ce282934995c279ea9f58293f70936a9)
 
 ## v0.2.1 (7/13/2024)
 ### Removed:
 * Removed Page banners as they looked cheap. [a96dd85](https://github.com/TheLazySol/lab-docs/commit/a96dd85db86dde5491bd24b3eba5c641d624aec1)
-### Bug Fixes:
+### Bug Fix:
 * Fixed removal of item list on 'Vaults-Explained' Page. [a96dd85](https://github.com/TheLazySol/lab-docs/commit/a96dd85db86dde5491bd24b3eba5c641d624aec1)
 * Fixed "Understanding Lab Updates" semantic versioning "patch" example. [a96dd85](https://github.com/TheLazySol/lab-docs/commit/a96dd85db86dde5491bd24b3eba5c641d624aec1)
 

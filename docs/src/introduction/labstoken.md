@@ -1,10 +1,5 @@
 # LABS Token
 
-::: tip Launch Date:
-### 07/26/2024 @ 00:00 UTC
-### 
-:::
-
 ## About LABS
 
 ***LABS*** is a governance and utility token that is used for decision making, project focuses, voting, and much more. ***LABS*** will be integrated with various protocols such as:
@@ -22,7 +17,7 @@ This supply number is the maximum cap on how many LABS will ever exist. This amo
 :::
 
 ::: details Liquidity Pool --> *27,326,300 LABS*
-This amount is going into the initial Liquidity Pool on Raydium. As soon as the LP is created, half of the LP will be burned. The other half will be locked up for 12 months. More explanation on this is found below.
+This amount is going into the initial Liquidity Pool on Raydium. As soon as the LP is created, all LP tokens will be burned.
 :::
 
 ::: details LABS-Vault Reward Pool --> *10,930,520 LABS* 
@@ -42,7 +37,7 @@ This is allocated for marketing purposes only. Including but not limited to aird
 :::
 
 ::: details Community Bonuses --> *1,639,578 LABS*
-This portion of LABS is set aside specifically to temporary collaborators that help develop Epicentral Labs. Furthermore, this portion is also used as foundational grants for the Epicentral Labs Team. This is vested over 6 months, released linearly.
+This portion of LABS is set aside specifically to temporary collaborators that help develop Epicentral Labs. Furthermore, this portion is also used as foundational grants for the Epicentral Labs Team. This is vested over 5 months, released linearly.
 :::
 
 ## LABS Token Vesting Schedule
@@ -57,17 +52,17 @@ For all of our visual learners out there, below is a stacked bar chart showcasin
 
 ## LABS Vesting Table Chart
 
-| **Allocation:** | **Grant Amount** | **Quanity Released / Month:** | **Vesting Period:** | **Rate:** | **Amount Already Released:** |
+| **Allocation:** | **Cliff Amount** | **Quanity Released:** | **Vesting Period:** | **Rate:** | **Amount Already Released:** |
 |:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|
 | LABS-Vault Reward Pool: | **0** | **910,877** | 12 Months | Once per month | **0** |
 | DAO Treasury: | **1,457,402** | **728,701** | 12 Months | Once per month | **0** |
 | Team & Advisors: | **364,356*** | **182,175** | 14 Months | Once per month | **0** |
 | Marketing: | **910,877** | **910,877** | 2 Months | Once per month | **0** |
-| Community Bonuses: | **0** | **273,263** | 6 Months | Twice per month | **0** |
+| Community Bonuses: | **273,263** | **273,263** | 5 Months | Once per month | **0** |
 
 
 
-Vesting Schedules are important for projects and start up businesses that wish to succeed long term. It is critical that every detail in the tokenomics of LABS is measured precisely so that there aren't any future dilemmas in how to go about releasing tokens. 
+Vesting Schedules are important for start up projects and businesses that wish to succeed long term. It is critical that every detail in the tokenomics of LABS is measured precisely so that there aren't any future dilemmas in how to go about releasing tokens. 
 
 Token Vesting is essential in order to reduce large inflationary outcomes and provide market stability.
 

@@ -4,10 +4,10 @@ Most recent version will be presented at the top of the page. All changes made t
 
 ## v0.3.1 (7/27/2024)
 ### Added:
-* New section added for the LABS Token Vesting Contracts. Hyperlinks. 
+* New section added for the LABS Token Vesting Contracts. Hyperlinks. [914270e](https://github.com/TheLazySol/lab-docs/commit/914270edfcde1e258f5eb39d0475630fc82a00f9)
 ### Bug Fix:
-* Updated Vesting Schedule Graphs as they were initially incorrect. 
-* Vesting Table Chart updated to coalign with the correct/updated Vesting Schedule Graphs.
+* Updated Vesting Schedule Graphs as they were initially incorrect. [914270e](https://github.com/TheLazySol/lab-docs/commit/914270edfcde1e258f5eb39d0475630fc82a00f9)
+* Vesting Table Chart updated to coalign with the correct/updated Vesting Schedule Graphs. [914270e](https://github.com/TheLazySol/lab-docs/commit/914270edfcde1e258f5eb39d0475630fc82a00f9)
 
 ## v0.3.0 (7/26/2024)
 ### Removed:

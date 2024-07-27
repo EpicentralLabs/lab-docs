@@ -2,6 +2,13 @@
 
 Most recent version will be presented at the top of the page. All changes made to the website/documentation pages is posted here. With all/any new releases made on GitHub, the description of what has changed is listed here. 
 
+## v0.3.1 (7/27/2024)
+### Added:
+* New section added for the LABS Token Vesting Contracts. Hyperlinks. 
+### Bug Fix:
+* Updated Vesting Schedule Graphs as they were initially incorrect. 
+* Vesting Table Chart updated to coalign with the correct/updated Vesting Schedule Graphs.
+
 ## v0.3.0 (7/26/2024)
 ### Removed:
 * LABS Token "Launch Date" banner removed for simplicity. [47a8369](https://github.com/TheLazySol/lab-docs/commit/47a8369d14175eb110d2e4b5ffabbcd2f69db9b8)

@@ -54,12 +54,34 @@ For all of our visual learners out there, below is a stacked bar chart showcasin
 
 | **Allocation:** | **Cliff Amount** | **Quanity Released:** | **Vesting Period:** | **Rate:** | **Amount Already Released:** |
 |:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|
-| LABS-Vault Reward Pool: | **0** | **910,877** | 12 Months | Once per month | **0** |
-| DAO Treasury: | **1,457,402** | **728,701** | 12 Months | Once per month | **0** |
-| Team & Advisors: | **364,356*** | **182,175** | 14 Months | Once per month | **0** |
-| Marketing: | **910,877** | **910,877** | 2 Months | Once per month | **0** |
-| Community Bonuses: | **273,263** | **273,263** | 5 Months | Once per month | **0** |
+| LABS-Vault Reward Pool: | **0** | **910,877** | 13 Months | Once per month | **0** |
+| DAO Treasury: | **1,457,402** | **728,701** | 11 Months | Once per month | **1,457,402** |
+| Team & Advisors: | **546,531** | **182,175** | 15 Months | Once per month | **0** |
+| Marketing: | **910,877** | **910,877** | 3 Months | Once per month | **910,877** |
+| Community Bonuses: | **273,263** | **273,263** | 6 Months | Once per month | **273,263** |
 
+*(This allocation is before [StreamFlow Finance](https://streamflow.finance/) fee of 0.19%).*
+
+## Tokenomics Distribution Contracts
+* [LABS-Vault Reward Pool](https://app.streamflow.finance/contract/solana/mainnet/4xcfeTFsJtHJqMy4D7JKuwFeAhg1SeRoBF86M1jtnNJ7)
+* [DAO Treasury Pool](https://app.streamflow.finance/contract/solana/mainnet/FJpB3T4Y73XRrK98VFH7VowR3x1yGpjEUXsuNm841yjo)
+* [Marketing Pool](https://app.streamflow.finance/contract/solana/mainnet/EgDxcfuDwCXhrrfczia9bFEvCtc2cUGqHZwr2bPWDqXT)
+* [Community Bonuses Pool](https://app.streamflow.finance/contract/solana/mainnet/BcDHvTezFGL1iSooz682FjVUnUqTFcZ3PY4aaAYxRctP)
+
+### Team Allocation Contracts
+* [Head Project Manager](https://app.streamflow.finance/contract/solana/mainnet/8QNcH3ui247mK6xaBwZKm821WRz7FhbUVqPjRE92nBvR)
+* [Internal Contributor 1](https://app.streamflow.finance/contract/solana/mainnet/HZwSTiBFXBmjbLeeLkid8KB2SP59tNEHA7sj9TXoVHRx)
+* [Internal Contributor 2](https://app.streamflow.finance/contract/solana/mainnet/GTP1PPsjQrJAWB1tUqfyFrtDCzBKFjLyXWbQQwEhGH52)
+* [Head of Server Operations](https://app.streamflow.finance/contract/solana/mainnet/JCLcL3mZuBPwQdY61qxaUVxWh7f2UDyPaWuHBwYzoTFt)
+* [Internal Contributor 3](https://app.streamflow.finance/contract/solana/mainnet/26CeyQhirDizgSrN5rNTr3Fs7zonHqiYhmEoU9sDEXWb)
+* [Internal Contributor 4](https://app.streamflow.finance/contract/solana/mainnet/ETyJaZsKUQbjsjJn4Q66GidvhBVxxjmdJshEUAXLUmhM)
+* [Technical Specialist - F/E Dev](https://app.streamflow.finance/contract/solana/mainnet/ECeE5kMPMyA8QAsjv8DYf5NERQYVgNDzw8etMPiwxwjm)
+* [Internal Contributor 5](https://app.streamflow.finance/contract/solana/mainnet/FQTMadFjGoTrENATn5iaAYgpdXmEMy1KQAzLr1ADbTzK)
+* [Head Content Creator](https://app.streamflow.finance/contract/solana/mainnet/P8oBYnNE1o6j7abiMLeDe4xnxxxfw2yrbQRmxLz2dtx)
+* [Internal Contributor 6](https://app.streamflow.finance/contract/solana/mainnet/EzFAbwy8fTwbZwpkoRJ69E9boANiqzgR21ioLnFMLdpz)
+* Lead Technical Specialist - Yet to Vote by [DAO](https://app.realms.today/dao/5PP7vKjJyLw1MR55LoexRsCj3CpZj9MdD6aNXRrvxG42) Council
+* Logo Designer - Yet to Vote by [DAO](https://app.realms.today/dao/5PP7vKjJyLw1MR55LoexRsCj3CpZj9MdD6aNXRrvxG42) Council
+* Head of Growth - Yet to Vote by [DAO](https://app.realms.today/dao/5PP7vKjJyLw1MR55LoexRsCj3CpZj9MdD6aNXRrvxG42) Council
 
 
 Vesting Schedules are important for start up projects and businesses that wish to succeed long term. It is critical that every detail in the tokenomics of LABS is measured precisely so that there aren't any future dilemmas in how to go about releasing tokens. 

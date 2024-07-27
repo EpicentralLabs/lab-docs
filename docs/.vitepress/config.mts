@@ -8,7 +8,7 @@ export default defineConfig({
   themeConfig: {
     nav: [
       { text: 'Home', link: '/' },
-      { text: 'v0.3.0',
+      { text: 'v0.3.1',
         items: [
           { text: 'Website Changlogs', link: '/lab-updates/website-changelog' }
         ]

@@ -1,5 +1,16 @@
 # LABS Token
 
+## Token Details:
+### Contract Address:
+**[LABSh5DTebUcUbEoLzXKCiXFJLecDFiDWiBGUU1GpxR](https://solscan.io/token/LABSh5DTebUcUbEoLzXKCiXFJLecDFiDWiBGUU1GpxR)**
+
+### View LABS:
+**[DexScreener](https://dexscreener.com/solana/3wxhfgvvygstoqj3xvmarnqf66wamwcvy4egwbjfk1bm)**
+**[BirdEye](https://birdeye.so/token/LABSh5DTebUcUbEoLzXKCiXFJLecDFiDWiBGUU1GpxR?chain=solana)**
+
+### Buy/Sell/Swap LABS
+**[Raydium](https://raydium.io/swap/?inputMint=LABSh5DTebUcUbEoLzXKCiXFJLecDFiDWiBGUU1GpxR&outputMint=EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v)
+
 ## About LABS
 
 ***LABS*** is a governance and utility token that is used for decision making, project focuses, voting, and much more. ***LABS*** will be integrated with various protocols such as:

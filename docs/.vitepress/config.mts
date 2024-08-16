@@ -21,7 +21,13 @@ export default defineConfig({
         items: [
           { text: 'About Us', link: '/introduction/about-us' },
           { text: 'Terminology', link: '/terminology' },
-          { text: 'LABS Token', link: '/introduction/labstoken' }
+
+        ]
+      },
+      {
+        text: 'LABS Token',
+        items: [
+          { text: 'What are LABS?', link: '/introduction/labstoken' }
         ]
       },
       {

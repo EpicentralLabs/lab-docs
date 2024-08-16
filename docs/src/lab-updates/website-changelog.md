@@ -1,6 +1,13 @@
 # Website Changelog
 
 Most recent version will be presented at the top of the page. All changes made to the website/documentation pages is posted here. With all/any new releases made on GitHub, the description of what has changed is listed here. 
+
+## v0.4.0 (8/16/2024)
+### Removed:
+* FAQs Page removed under "Vault-Programs" as it is not necessary at this time.
+### Changes:
+* Reverted Website Changelog versions spacing.
+
 ## v0.3.2 (7/27/2024)
 ### Added:
 * LABS Token Details Added. [9961949](https://github.com/TheLazySol/lab-docs/commit/9961949e4b91d915372cd810f1d9c23c6276a94e)
@@ -31,7 +38,7 @@ Most recent version will be presented at the top of the page. All changes made t
 * Updated "Introduction>About Us" page with more information. [62dd46e](https://github.com/TheLazySol/lab-docs/commit/62dd46ed92e67c1154f2223c33b16f5ec6ced8ef)
 
 ## v0.2.5 (7/23/2024)
-### Bug Fix: 
+### Bug Fix:
 * Fixed versioning error in top right of the website changelog dropdown menu. [f7026d3](https://github.com/TheLazySol/lab-docs/commit/f7026d3528e4d6087423a9bccda76195da103e42) 
 
 ## v0.2.4 (7/22/2024)

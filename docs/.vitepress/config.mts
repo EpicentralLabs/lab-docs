@@ -8,7 +8,7 @@ export default defineConfig({
   themeConfig: {
     nav: [
       { text: 'Home', link: '/' },
-      { text: 'v0.3.2',
+      { text: 'v0.4.0',
         items: [
           { text: 'Website Changlogs', link: '/lab-updates/website-changelog' }
         ]
@@ -29,8 +29,7 @@ export default defineConfig({
         items: [
           { text: 'Introduction', link: '/vault-program-docs/introduction' },
           { text: 'Vaults-Explained', link: '/vault-program-docs/understanding-vaults' },
-          { text: 'Fees', link: '/vault-program-docs/vault-fees' },
-          { text: 'FAQs', link: '/vault-program-docs/vault-faqs' }
+          { text: 'Vault-Fees', link: '/vault-program-docs/vault-fees' }
         ]
       },
       {

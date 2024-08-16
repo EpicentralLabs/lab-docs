@@ -12,7 +12,7 @@ Most recent version will be presented at the top of the page. All changes made t
 * Grammatical errors site-wide has been fixed. [04039ce](https://github.com/TheLazySol/lab-docs/commit/04039ce78419ef18a80e735ded08a9800a9ec625)
 ### Changes:
 * Reverted Website Changelog versions spacing. [3c83fac](https://github.com/TheLazySol/lab-docs/commit/3c83fac4c900fcb1f1193c8148aeb10e71b5feac)
-* Updated "Voted by DAO" links and description in regards to LABS vesting allocation.
+* Updated "Voted by DAO" links and description in regards to LABS vesting allocation. [3117a5a](https://github.com/TheLazySol/lab-docs/commit/3117a5ace3f05d65568ad75070e432b431daa708)
 
 ## v0.3.2 (7/27/2024)
 ### Added:

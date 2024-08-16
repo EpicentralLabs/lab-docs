@@ -2,10 +2,6 @@
 
 Most recent version will be presented at the top of the page. All changes made to the website/documentation pages is posted here. With all/any new releases made on GitHub, the description of what has changed is listed here.
 
-## v0.3.3 (8/16/2024)
-### This is a test tony
-* trying new things yer
-
 ## v0.3.2 (7/27/2024)
 ### Added:
 * LABS Token Details Added. [9961949](https://github.com/TheLazySol/lab-docs/commit/9961949e4b91d915372cd810f1d9c23c6276a94e)

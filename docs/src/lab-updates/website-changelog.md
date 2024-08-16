@@ -4,9 +4,9 @@ Most recent version will be presented at the top of the page. All changes made t
 
 ## v0.4.0 (8/16/2024)
 ### Removed:
-* FAQs Page removed under "Vault-Programs" as it is not necessary at this time.
+* FAQs Page removed under "Vault-Programs" as it is not necessary at this time. [3c83fac](https://github.com/TheLazySol/lab-docs/commit/3c83fac4c900fcb1f1193c8148aeb10e71b5feac)
 ### Changes:
-* Reverted Website Changelog versions spacing.
+* Reverted Website Changelog versions spacing. [3c83fac](https://github.com/TheLazySol/lab-docs/commit/3c83fac4c900fcb1f1193c8148aeb10e71b5feac)
 
 ## v0.3.2 (7/27/2024)
 ### Added:

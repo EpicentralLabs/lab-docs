@@ -35,7 +35,6 @@ export default defineConfig({
       {
         text: 'Links',
         items: [
-          { text: 'Epicentral Labs Website', link: 'https://docs.epicentrallabs.com/' },
           { text: 'X (Twitter)', link: 'https://x.com/EpicentralLabs' },
           { text: 'Discord', link: 'https://discord.gg/5asAuY2sR8' },
           { text: 'GitHub', link: 'https://github.com/EpicentralLabs' }

@@ -98,9 +98,9 @@ For all of our visual learners out there, below is a stacked bar chart showcasin
 * [Internal Contributor 5](https://app.streamflow.finance/contract/solana/mainnet/FQTMadFjGoTrENATn5iaAYgpdXmEMy1KQAzLr1ADbTzK)
 * [Head Content Creator](https://app.streamflow.finance/contract/solana/mainnet/P8oBYnNE1o6j7abiMLeDe4xnxxxfw2yrbQRmxLz2dtx)
 * [Internal Contributor 6](https://app.streamflow.finance/contract/solana/mainnet/EzFAbwy8fTwbZwpkoRJ69E9boANiqzgR21ioLnFMLdpz)
-* Lead Technical Specialist - Voted by [DAO](https://app.realms.today/dao/5PP7vKjJyLw1MR55LoexRsCj3CpZj9MdD6aNXRrvxG42) Council
-* Logo Designer - Voted by [DAO](https://app.realms.today/dao/5PP7vKjJyLw1MR55LoexRsCj3CpZj9MdD6aNXRrvxG42) Council
-* Head of Growth - Voted by [DAO](https://app.realms.today/dao/5PP7vKjJyLw1MR55LoexRsCj3CpZj9MdD6aNXRrvxG42) Council
+* Lead Technical Specialist - [Voted on by DAO Council](https://app.realms.today/dao/LABS/proposal/7ocEFcAcJwvmkQS5aEFSSanniR55scsfrPScdtfFYywe)
+* Logo Designer - [Voted on by DAO Council](https://app.realms.today/dao/LABS/proposal/7ocEFcAcJwvmkQS5aEFSSanniR55scsfrPScdtfFYywe)
+* Head of Growth - [Voted on by DAO Council](https://app.realms.today/dao/LABS/proposal/7ocEFcAcJwvmkQS5aEFSSanniR55scsfrPScdtfFYywe)
 
 Vesting Schedules are important for start up projects and businesses that wish to succeed long term. It is critical that every detail in the tokenomics of LABS is measured precisely so that there aren't any future dilemmas in how to go about releasing tokens.
 

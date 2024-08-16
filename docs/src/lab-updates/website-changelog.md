@@ -4,12 +4,12 @@ Most recent version will be presented at the top of the page. All changes made t
 
 ## v0.4.0 (8/16/2024)
 ### Added:
-* Added "LABS Token" category/section.
+* Added "LABS Token" category/section. [04039ce](https://github.com/TheLazySol/lab-docs/commit/04039ce78419ef18a80e735ded08a9800a9ec625)
 ### Removed:
 * FAQs Page removed under "Vault-Programs" as it is not necessary at this time. [3c83fac](https://github.com/TheLazySol/lab-docs/commit/3c83fac4c900fcb1f1193c8148aeb10e71b5feac)
 * Removed "Epicentral Labs Website" hyperlink under "Links" section. [7a164f4](https://github.com/TheLazySol/lab-docs/commit/7a164f4e8bcc31b8d66185b4600f006675172ff3)
 ### Bug Fix:
-* Grammatical errors site-wide has been fixed.
+* Grammatical errors site-wide has been fixed. [04039ce](https://github.com/TheLazySol/lab-docs/commit/04039ce78419ef18a80e735ded08a9800a9ec625)
 ### Changes:
 * Reverted Website Changelog versions spacing. [3c83fac](https://github.com/TheLazySol/lab-docs/commit/3c83fac4c900fcb1f1193c8148aeb10e71b5feac)
 

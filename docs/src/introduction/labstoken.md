@@ -1,6 +1,4 @@
-# 🧪 LABS Token
-
-## 📊 Token Details
+# 📊 Token Details
 
 ### 📝 Contract Address
 
@@ -13,13 +11,13 @@
 | 🖥️ DexScreener | [Check it out](https://dexscreener.com/solana/3wxhfgvvygstoqj3xvmarnqf66wamwcvy4egwbjfk1bm) |
 | 🦅 BirdEye | [Take a look](https://birdeye.so/token/LABSh5DTebUcUbEoLzXKCiXFJLecDFiDWiBGUU1GpxR?chain=solana) |
 
-### 💱 Buy/Sell/Swap LABS
+### 💱 Trade/Swap LABS
 
 Ready to dive in? Head over to [Raydium](https://raydium.io/swap/?inputMint=LABSh5DTebUcUbEoLzXKCiXFJLecDFiDWiBGUU1GpxR&outputMint=EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v) to start trading!
 
 ---
 
-> 💡 **Pro Tip:** Always do your own research and read our [disclaimer]().
+> 💡 **Pro Tip:** Always do your own research. [Disclaimer](/legal).
 
 ## About LABS
 

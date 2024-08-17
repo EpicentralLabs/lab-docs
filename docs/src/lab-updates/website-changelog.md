@@ -4,10 +4,14 @@ Most recent version will be presented at the top of the page. All changes made t
 
 ## v1.0.0 (8/16/2024)
 ### Added:
-* Added "LABS Token" category/section. [04039ce](https://github.com/TheLazySol/lab-docs/commit/04039ce78419ef18a80e735ded08a9800a9ec625)
-* Added "Extras" category/section. [7b389b7](https://github.com/TheLazySol/lab-docs/commit/7b389b7bc30daf973e6605788a289e39fb91b68b)
+* Added "LABS Token" section. [04039ce](https://github.com/TheLazySol/lab-docs/commit/04039ce78419ef18a80e735ded08a9800a9ec625)
+* Added "Extras" section. [7b389b7](https://github.com/TheLazySol/lab-docs/commit/7b389b7bc30daf973e6605788a289e39fb91b68b)
 * Added "Legal" page to hold any potential legal disclaimers about Epicentral Labs. [7b389b7](https://github.com/TheLazySol/lab-docs/commit/7b389b7bc30daf973e6605788a289e39fb91b68b)
 * LABS Token disclaimer hyperlink added to the "What are LABS?" page. [7a2c538](https://github.com/TheLazySol/lab-docs/commit/7a2c538a147fd0fa8feb25b67b19d3699c83628e)
+* Added "What are LABS?" page under "LABS Token" section. [58cf0ea](https://github.com/TheLazySol/lab-docs/commit/58cf0ea8e1e531177de805012182645fc6ec7c50)
+* Added "Details" page under "LABS Token" section. [58cf0ea](https://github.com/TheLazySol/lab-docs/commit/58cf0ea8e1e531177de805012182645fc6ec7c50)
+* Added "Tokenomics" page under "LABS Token" section. [58cf0ea](https://github.com/TheLazySol/lab-docs/commit/58cf0ea8e1e531177de805012182645fc6ec7c50)
+* Added "Vesting Schedule" page under "LABS Token" section. [58cf0ea](https://github.com/TheLazySol/lab-docs/commit/58cf0ea8e1e531177de805012182645fc6ec7c50)
 ### Removed:
 * FAQs Page removed under "Vault-Programs" as it is not necessary at this time. [3c83fac](https://github.com/TheLazySol/lab-docs/commit/3c83fac4c900fcb1f1193c8148aeb10e71b5feac)
 * Removed "Epicentral Labs Website" hyperlink under "Links" section. [7a164f4](https://github.com/TheLazySol/lab-docs/commit/7a164f4e8bcc31b8d66185b4600f006675172ff3)
@@ -18,6 +22,9 @@ Most recent version will be presented at the top of the page. All changes made t
 * Reverted Website Changelog versions spacing. [3c83fac](https://github.com/TheLazySol/lab-docs/commit/3c83fac4c900fcb1f1193c8148aeb10e71b5feac)
 * Updated "Voted by DAO" links and description in regards to LABS vesting allocation. [3117a5a](https://github.com/TheLazySol/lab-docs/commit/3117a5ace3f05d65568ad75070e432b431daa708)
 * Moved the "Terminology" page under the "Extras". [7b389b7](https://github.com/TheLazySol/lab-docs/commit/7b389b7bc30daf973e6605788a289e39fb91b68b)
+* Revamped the entire documentation site to make it more engaging for the readers by adding emojis. [58cf0ea](https://github.com/TheLazySol/lab-docs/commit/58cf0ea8e1e531177de805012182645fc6ec7c50)
+* Updated details in "About Us". [58cf0ea](https://github.com/TheLazySol/lab-docs/commit/58cf0ea8e1e531177de805012182645fc6ec7c50)
+* Changed "Understanding Lab Updates" to "Introduction" for the "Lab Updates" section. [58cf0ea](https://github.com/TheLazySol/lab-docs/commit/58cf0ea8e1e531177de805012182645fc6ec7c50)
 
 ## v0.3.2 (7/27/2024)
 ### Added:

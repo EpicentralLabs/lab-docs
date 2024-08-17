@@ -12,6 +12,7 @@ Most recent version will be presented at the top of the page. All changes made t
 * Added "Details" page under "LABS Token" section. [58cf0ea](https://github.com/TheLazySol/lab-docs/commit/58cf0ea8e1e531177de805012182645fc6ec7c50)
 * Added "Tokenomics" page under "LABS Token" section. [58cf0ea](https://github.com/TheLazySol/lab-docs/commit/58cf0ea8e1e531177de805012182645fc6ec7c50)
 * Added "Vesting Schedule" page under "LABS Token" section. [58cf0ea](https://github.com/TheLazySol/lab-docs/commit/58cf0ea8e1e531177de805012182645fc6ec7c50)
+* Added "Earn Yield Category" for "Token Details".
 ### Removed:
 * FAQs Page removed under "Vault-Programs" as it is not necessary at this time. [3c83fac](https://github.com/TheLazySol/lab-docs/commit/3c83fac4c900fcb1f1193c8148aeb10e71b5feac)
 * Removed "Epicentral Labs Website" hyperlink under "Links" section. [7a164f4](https://github.com/TheLazySol/lab-docs/commit/7a164f4e8bcc31b8d66185b4600f006675172ff3)
@@ -25,6 +26,8 @@ Most recent version will be presented at the top of the page. All changes made t
 * Revamped the entire documentation site to make it more engaging for the readers by adding emojis. [58cf0ea](https://github.com/TheLazySol/lab-docs/commit/58cf0ea8e1e531177de805012182645fc6ec7c50)
 * Updated details in "About Us". [58cf0ea](https://github.com/TheLazySol/lab-docs/commit/58cf0ea8e1e531177de805012182645fc6ec7c50)
 * Changed "Understanding Lab Updates" to "Introduction" for the "Lab Updates" section. [58cf0ea](https://github.com/TheLazySol/lab-docs/commit/58cf0ea8e1e531177de805012182645fc6ec7c50)
+* Changed the default indigo color on the doc site to the Epicentral Theme Green. 
+* Changed Formating for Token Details.
 
 ## v0.3.2 (7/27/2024)
 ### Added:

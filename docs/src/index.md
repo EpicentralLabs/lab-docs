@@ -4,7 +4,7 @@ layout: home
 hero:
   name: "Epicentral Labs"
   text: "Innovation on Solana"
-  tagline: Dev-tooling, protocol and real app integrations.
+  tagline: Dev-tooling & real app integrations...
   actions:
     - theme: brand
       text: Open Docs

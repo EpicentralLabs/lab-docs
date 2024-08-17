@@ -19,6 +19,7 @@ Most recent version will be presented at the top of the page. All changes made t
 ### Bug Fix:
 * Grammatical errors site-wide has been fixed. [04039ce](https://github.com/TheLazySol/lab-docs/commit/04039ce78419ef18a80e735ded08a9800a9ec625)
 * Tip added to "Token Details" page. [f1a8154](https://github.com/TheLazySol/lab-docs/commit/f1a8154ef027de4f678a7b641472cf318174f62a)
+* Contract IDs Hyperlink Visual Fix. [5d1169a](https://github.com/TheLazySol/lab-docs/commit/5d1169a8a35d8173a88b5f2a8b7d5648e5f5f1b0)
 ### Changes:
 * Reverted Website Changelog versions spacing. [3c83fac](https://github.com/TheLazySol/lab-docs/commit/3c83fac4c900fcb1f1193c8148aeb10e71b5feac)
 * Updated "Voted by DAO" links and description in regards to LABS vesting allocation. [3117a5a](https://github.com/TheLazySol/lab-docs/commit/3117a5ace3f05d65568ad75070e432b431daa708)

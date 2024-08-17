@@ -7,7 +7,7 @@ Most recent version will be presented at the top of the page. All changes made t
 * Added "LABS Token" category/section. [04039ce](https://github.com/TheLazySol/lab-docs/commit/04039ce78419ef18a80e735ded08a9800a9ec625)
 * Added "Extras" category/section. [7b389b7](https://github.com/TheLazySol/lab-docs/commit/7b389b7bc30daf973e6605788a289e39fb91b68b)
 * Added "Legal" page to hold any potential legal disclaimers about Epicentral Labs. [7b389b7](https://github.com/TheLazySol/lab-docs/commit/7b389b7bc30daf973e6605788a289e39fb91b68b)
-* LABS Token disclaimer hyperlink added to the "What are LABS?" page.
+* LABS Token disclaimer hyperlink added to the "What are LABS?" page. [7a2c538](https://github.com/TheLazySol/lab-docs/commit/7a2c538a147fd0fa8feb25b67b19d3699c83628e)
 ### Removed:
 * FAQs Page removed under "Vault-Programs" as it is not necessary at this time. [3c83fac](https://github.com/TheLazySol/lab-docs/commit/3c83fac4c900fcb1f1193c8148aeb10e71b5feac)
 * Removed "Epicentral Labs Website" hyperlink under "Links" section. [7a164f4](https://github.com/TheLazySol/lab-docs/commit/7a164f4e8bcc31b8d66185b4600f006675172ff3)

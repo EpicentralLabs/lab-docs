@@ -13,11 +13,13 @@
 
 ### 💱 Trade/Swap LABS
 
-Ready to dive in? Head over to [Raydium](https://raydium.io/swap/?inputMint=LABSh5DTebUcUbEoLzXKCiXFJLecDFiDWiBGUU1GpxR&outputMint=EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v) to start trading!
+Ready to dive in? Head over to [Raydium](https://raydium.io/swap/?inputMint=LABSh5DTebUcUbEoLzXKCiXFJLecDFiDWiBGUU1GpxR&outputMint=EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v) to start swapping!
 
 ---
 
-> 💡 **Pro Tip:** Always do your own research. [Disclaimer](/legal).
+::: warning 💡 **Pro Tip:** 
+Always do your own research => [Disclaimer](/legal).
+:::
 
 ## About LABS
 

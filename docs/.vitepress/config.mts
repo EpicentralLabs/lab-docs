@@ -19,9 +19,7 @@ export default defineConfig({
       {
         text: 'Introduction',
         items: [
-          { text: 'About Us', link: '/introduction/about-us' },
-          { text: 'Terminology', link: '/terminology' },
-
+          { text: 'About Us', link: '/introduction/about-us' }
         ]
       },
       {
@@ -52,6 +50,13 @@ export default defineConfig({
           { text: 'Understanding Lab Updates', link: '/lab-updates/understanding-lab-updates.md' },
           { text: 'Changelog [Website]', link: '/lab-updates/website-changelog' },
           { text: 'Changelog [Vault-Programs]', link: '/lab-updates/vault-program-changelog' }
+        ]
+      },
+      {
+        text: 'Extras',
+        items: [
+          { text: 'Terminology', link: '/terminology' },
+          { text: 'Legal', link: '/legal' }
         ]
       }
     ],

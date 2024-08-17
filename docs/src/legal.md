@@ -1,0 +1,9 @@
+# LABS Token - Legal Disclaimer
+
+Please be advised that "LABS tokens" are strictly utilizable Solana program-based tokens and are not to be considered assets or securities in any way, shape, or form. They are created and operate within the Solana blockchain ecosystem and are designed to provide specific utility within the projects or platforms that accept them.
+
+It is important for potential LABS token holders to understand that LABS tokens do not represent an investment, and there is no promise or guarantee that the value of LABS tokens will increase over time. The publicly executed markets can be highly volatile and can be subject to significant fluctuations that can result in potential financial losses. As such, acquiring LABS tokens via decentralized exchanges or P2P transactions carries inherent risks and should be approached with appropriate and educated caution.
+
+All decisions to aquire or trade LABS tokens between any parties should be made independently and with a full understanding of the risks involved. The information provided here and in any related communications does not constitute financial advice. Prospective aquisition of LABS are strongly advised to conduct their own due diligence and determine their own risk.
+
+At any moment where a party aquires, receives, holds, trades, or transacts LABS tokens in any fashion, the party acknowledges that they understand the potential risks and are solely responsible for their own actions. The creators, developers, and distributors of LABS tokens will not be liable for any losses or damages arising from decisions made to engage with LABS tokens.

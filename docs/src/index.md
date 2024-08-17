@@ -3,8 +3,8 @@ layout: home
 
 hero:
   name: "Epicentral Labs"
-  text: "Accelerate Incentives & Participation"
-  tagline: Creating innovative DeFi solutions...
+  text: "Innovation on Solana"
+  tagline: Dev-tooling & real app integrations...
   actions:
     - theme: brand
       text: Open Docs

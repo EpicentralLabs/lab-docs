@@ -1,6 +1,35 @@
 # Website Changelog
 
 Most recent version will be presented at the top of the page. All changes made to the website/documentation pages is posted here. With all/any new releases made on GitHub, the description of what has changed is listed here. 
+
+## v1.0.0 (8/16/2024)
+### Added:
+* Added "LABS Token" section. [04039ce](https://github.com/TheLazySol/lab-docs/commit/04039ce78419ef18a80e735ded08a9800a9ec625)
+* Added "Extras" section. [7b389b7](https://github.com/TheLazySol/lab-docs/commit/7b389b7bc30daf973e6605788a289e39fb91b68b)
+* Added "Legal" page to hold any potential legal disclaimers about Epicentral Labs. [7b389b7](https://github.com/TheLazySol/lab-docs/commit/7b389b7bc30daf973e6605788a289e39fb91b68b)
+* LABS Token disclaimer hyperlink added to the "What are LABS?" page. [7a2c538](https://github.com/TheLazySol/lab-docs/commit/7a2c538a147fd0fa8feb25b67b19d3699c83628e)
+* Added "What are LABS?" page under "LABS Token" section. [58cf0ea](https://github.com/TheLazySol/lab-docs/commit/58cf0ea8e1e531177de805012182645fc6ec7c50)
+* Added "Details" page under "LABS Token" section. [58cf0ea](https://github.com/TheLazySol/lab-docs/commit/58cf0ea8e1e531177de805012182645fc6ec7c50)
+* Added "Tokenomics" page under "LABS Token" section. [58cf0ea](https://github.com/TheLazySol/lab-docs/commit/58cf0ea8e1e531177de805012182645fc6ec7c50)
+* Added "Vesting Schedule" page under "LABS Token" section. [58cf0ea](https://github.com/TheLazySol/lab-docs/commit/58cf0ea8e1e531177de805012182645fc6ec7c50)
+* Added "Earn Yield Category" for "Token Details". [755b3dc](https://github.com/TheLazySol/lab-docs/commit/755b3dc4b11cb48e3898878f63017d5d35c7d233)
+### Removed:
+* FAQs Page removed under "Vault-Programs" as it is not necessary at this time. [3c83fac](https://github.com/TheLazySol/lab-docs/commit/3c83fac4c900fcb1f1193c8148aeb10e71b5feac)
+* Removed "Epicentral Labs Website" hyperlink under "Links" section. [7a164f4](https://github.com/TheLazySol/lab-docs/commit/7a164f4e8bcc31b8d66185b4600f006675172ff3)
+### Bug Fix:
+* Grammatical errors site-wide has been fixed. [04039ce](https://github.com/TheLazySol/lab-docs/commit/04039ce78419ef18a80e735ded08a9800a9ec625)
+* Tip added to "Token Details" page. [f1a8154](https://github.com/TheLazySol/lab-docs/commit/f1a8154ef027de4f678a7b641472cf318174f62a)
+* Contract IDs Hyperlink Visual Fix. [5d1169a](https://github.com/TheLazySol/lab-docs/commit/5d1169a8a35d8173a88b5f2a8b7d5648e5f5f1b0)
+### Changes:
+* Reverted Website Changelog versions spacing. [3c83fac](https://github.com/TheLazySol/lab-docs/commit/3c83fac4c900fcb1f1193c8148aeb10e71b5feac)
+* Updated "Voted by DAO" links and description in regards to LABS vesting allocation. [3117a5a](https://github.com/TheLazySol/lab-docs/commit/3117a5ace3f05d65568ad75070e432b431daa708)
+* Moved the "Terminology" page under the "Extras". [7b389b7](https://github.com/TheLazySol/lab-docs/commit/7b389b7bc30daf973e6605788a289e39fb91b68b)
+* Revamped the entire documentation site to make it more engaging for the readers by adding emojis. [58cf0ea](https://github.com/TheLazySol/lab-docs/commit/58cf0ea8e1e531177de805012182645fc6ec7c50)
+* Updated details in "About Us". [58cf0ea](https://github.com/TheLazySol/lab-docs/commit/58cf0ea8e1e531177de805012182645fc6ec7c50)
+* Changed "Understanding Lab Updates" to "Introduction" for the "Lab Updates" section. [58cf0ea](https://github.com/TheLazySol/lab-docs/commit/58cf0ea8e1e531177de805012182645fc6ec7c50)
+* Changed the default indigo color on the doc site to the Epicentral Theme Green. [755b3dc](https://github.com/TheLazySol/lab-docs/commit/755b3dc4b11cb48e3898878f63017d5d35c7d233)
+* Changed Formating for Token Details. [755b3dc](https://github.com/TheLazySol/lab-docs/commit/755b3dc4b11cb48e3898878f63017d5d35c7d233)
+
 ## v0.3.2 (7/27/2024)
 ### Added:
 * LABS Token Details Added. [9961949](https://github.com/TheLazySol/lab-docs/commit/9961949e4b91d915372cd810f1d9c23c6276a94e)
@@ -31,7 +60,7 @@ Most recent version will be presented at the top of the page. All changes made t
 * Updated "Introduction>About Us" page with more information. [62dd46e](https://github.com/TheLazySol/lab-docs/commit/62dd46ed92e67c1154f2223c33b16f5ec6ced8ef)
 
 ## v0.2.5 (7/23/2024)
-### Bug Fix: 
+### Bug Fix:
 * Fixed versioning error in top right of the website changelog dropdown menu. [f7026d3](https://github.com/TheLazySol/lab-docs/commit/f7026d3528e4d6087423a9bccda76195da103e42) 
 
 ## v0.2.4 (7/22/2024)

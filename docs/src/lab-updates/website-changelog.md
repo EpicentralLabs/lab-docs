@@ -2,7 +2,7 @@
 
 Most recent version will be presented at the top of the page. All changes made to the website/documentation pages is posted here. With all/any new releases made on GitHub, the description of what has changed is listed here. 
 
-## v0.4.0 (8/16/2024)
+## v1.0.0 (8/16/2024)
 ### Added:
 * Added "LABS Token" category/section. [04039ce](https://github.com/TheLazySol/lab-docs/commit/04039ce78419ef18a80e735ded08a9800a9ec625)
 * Added "Extras" category/section. [7b389b7](https://github.com/TheLazySol/lab-docs/commit/7b389b7bc30daf973e6605788a289e39fb91b68b)

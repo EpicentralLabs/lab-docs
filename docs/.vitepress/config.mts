@@ -8,7 +8,7 @@ export default defineConfig({
   themeConfig: {
     nav: [
       { text: 'Home', link: '/' },
-      { text: 'v0.4.0',
+      { text: 'v1.0.0',
         items: [
           { text: 'Website Changlogs', link: '/lab-updates/website-changelog' }
         ]
@@ -25,7 +25,10 @@ export default defineConfig({
       {
         text: 'LABS Token',
         items: [
-          { text: 'What are LABS?', link: '/introduction/labstoken' }
+          { text: 'What are LABS?', link: '/labs-token/labstoken-about' },
+          { text: 'Details', link: '/labs-token/labstoken-details' },
+          { text: 'Tokenomics', link: '/labs-token/labstoken-tokenomics' },
+          { text: 'Vesting Schedule', link: '/labs-token/labstoken-vesting' }
         ]
       },
       {
@@ -47,7 +50,7 @@ export default defineConfig({
       {
         text: 'Lab Updates',
         items: [
-          { text: 'Understanding Lab Updates', link: '/lab-updates/understanding-lab-updates.md' },
+          { text: 'Introduction', link: '/lab-updates/understanding-lab-updates.md' },
           { text: 'Changelog [Website]', link: '/lab-updates/website-changelog' },
           { text: 'Changelog [Vault-Programs]', link: '/lab-updates/vault-program-changelog' }
         ]

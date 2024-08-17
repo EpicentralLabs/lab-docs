@@ -1,21 +1,75 @@
-# About Us
+# 🧪 Epicentral Labs: Innovation on Solana
 
-***Epicentral Labs*** is a development studio and future project incubator on Solana, based in the US and Canada. The team consists of passionate developers and project managers dedicated to introducing innovative solutions and services for new or existing Solana-based projects. The goal is to connect, collaborate, and educate the web community on how blockchain can enhance user experiences. By supporting new and upcoming projects and collaborating with large, well-established ones, Epicentral Labs aims to become the go-to place for startups seeking to make a difference in the Web3 space.
+## 🧪 About Us
 
-## Our Focus
+Epicentral Labs is a development studio and future project incubator on Solana, based in the US and Canada. Our team consists of passionate developers and project managers dedicated to introducing innovative solutions and services for new or existing Solana-based projects.
 
-The focus is on simplifying Solana for non-crypto-savvy internet users by utilizing new and existing ideas, products, and services.
+### Our Mission
 
-A key priority is to educate on the flexibility of both existing and decentralized applications to foster growth within the Solana community. The aim is to help everyday, non-crypto-oriented individuals understand what can be achieved for investors, consumers, and developers. Whether the focus is on gaming, security, decentralized finance, or other areas, the end goal is to demonstrate that Solana is more than "just crypto" to the world.
+- Connect and collaborate with the web community
+- Educate on blockchain's potential to enhance user experiences
+- Support new and upcoming projects
+- Collaborate with established projects in the ecosystem
 
-Currently, the team is focused on several intriguing sub-projects, including the development of a new DeFi platform for new and existing SPL-token projects. This platform aims to create new incentives for their communities. These initiatives are referred to as [Vault Programs](/vault-program-docs/introduction)—customizable staking vaults made simple!
+Our aim is to become the go-to place for startups seeking to make a difference in the Web3 space.
 
-One **problem** observed on Solana is that some projects lack the necessary support to accelerate their growth, both within their communities and in token value. Epicentral Labs seeks to provide tools, consultation, and solutions for projects in need of support, through various methods such as gamification, security enhancements, financing, and more.
+## 🔍 Our Focus
 
-In the future, any funds raised through fees or the DAO treasury may be used to provide grants and sponsorships to startup projects or to buy back [LABS Tokens](/introduction/labstoken).
+We focus on simplifying Solana for non-crypto-savvy users by utilizing new and existing ideas, products, and services.
 
-The full potential of Solana is only now being realized, and Epicentral Labs is eager to showcase what it can offer.
+### 🔑 Key Priorities
 
-## Why Are Docs Needed?
+1. Educate on the flexibility of both existing and decentralized applications and how Solana's blockchain can help
+2. Foster growth within the Solana community/ecosystem
+3. Help everyday individuals understand the potential for investors, consumers, and developers in a safe and secure way
+4. Demonstrate that Solana is more than "just crypto" to the world
 
-This documentation site is designed to help track all changelogs across different sub-projects in one place, ensuring readability and facilitating collaboration within the Epicentral Team. After all, GitBook is simply too expensive for what it offers, especially for a startup...
+## 🧫 Current Projects
+
+### Developer Tooling
+
+We look to simplify the tasks a Solana developer may face when getting started. Because of the transactional nature of Solana, tokens are utilized to perform functionality in some way or another. Currently we are working hard to offer Solana the ultimate developer tool: **The Token Lab**. 
+
+#### 🪙 The Token Lab
+
+Solana's most simple and transparent token creator.  ***More info on this soon!***
+- No Code
+- Low Cost
+- Simple to Use
+- Transparent
+
+### Expanding DeFi
+
+We're putting a twist on an existing style of doing DeFi. By building a better way for new and existing SPL-token projects. This platform aims to create new incentives with ease for both small and large communities.
+
+#### 🔐 [Vault-Programs](/vault-program-docs/introduction)
+
+Our flagship initiative involves customizable staking vaults designed for simplicity and effectiveness.
+
+### 🔬 Problem-Solving Initiatives
+
+We've observed that some projects on Solana lack necessary support for growth. To address this, we're developing:
+
+- Tools for Developers (such as The Token Lab)
+- On-boarding more users to the Solana Ecosystem
+- Solutions for project acceleration, security & incentives
+
+**Our methods include:**
+- Gamification
+- Security enhancements
+- Financing options
+
+## 🔮 Future Plans
+
+- Utilize DAO treasury funds for grants and sponsorships to startup projects
+- Consider buy-backs of LABS Tokens
+- Continue exploring and showcasing Solana's full potential
+
+## 📄 Documentation Purpose
+
+**This documentation site serves to:**
+- Track changelogs across different sub-projects
+- Ensure readability of project information
+- Facilitate collaboration within the Epicentral Team
+
+We believe in the growing potential of Solana and are committed to contributing to its ecosystem's development and adoption.

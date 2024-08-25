@@ -28,13 +28,15 @@ export default defineConfig({
       {
         text: 'Introduction',
         items: [
-          { text: 'About Us', link: '/introduction/about-us' }
+          { text: 'About Us', link: '/introduction/about-us' },
+          // { text: 'Roadmap', link: '/introduction/roadmap' }, TODO
         ]
       },
       {
         text: 'Epicentral DAO',
         items: [
-          { text: 'Introduction', link: '/epicentral-dao/introduction' }
+          { text: 'Introduction', link: '/epicentral-dao/introduction' },
+          { text: `Proposal & Voting Guide`, link: '/epicentral-dao/proposal-voting-guide' }
         ]
       },
       {

@@ -6,8 +6,10 @@ Most recent version will be presented at the top of the page. All changes made t
 ### Added:
 * Epicentral DAO Page/Category. [1501c26](https://github.com/TheLazySol/lab-docs/commit/1501c26ae9b742598928fe809189aa6f63a4df83)
 * Added a drop down menu to easily navigate between each category. [1501c26](https://github.com/TheLazySol/lab-docs/commit/1501c26ae9b742598928fe809189aa6f63a4df83)
+* Added Introduction page to the DAO Section on nav bar. 
 ### Bug Fix:
 * Updated internal navigation files. [1501c26](https://github.com/TheLazySol/lab-docs/commit/1501c26ae9b742598928fe809189aa6f63a4df83)
+* Fixed wording under 'Vesting Schedule' page from 13 months >> 16 months -- as this was a calculation mistake now fixed.
 ### Changes:
 * Moved 'LINKS' category to the bottom of the nav bar. [1501c26](https://github.com/TheLazySol/lab-docs/commit/1501c26ae9b742598928fe809189aa6f63a4df83)
 * Changed emoji on the "What are LABS?" page for first/top header. [1501c26](https://github.com/TheLazySol/lab-docs/commit/1501c26ae9b742598928fe809189aa6f63a4df83)

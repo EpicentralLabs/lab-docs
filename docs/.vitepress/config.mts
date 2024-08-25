@@ -7,8 +7,17 @@ export default defineConfig({
   srcDir: './src',
   themeConfig: {
     nav: [
-      { text: 'Home', link: '/' },
-      { text: 'v1.0.0',
+      { text: 'Menu',
+        items: [
+          { text: 'Home', link: '/' },
+          { text: 'Epicentral DAO', link: '/epicentral-dao/introduction' },
+          { text: 'LABS Token', link: '/labs-token/labstoken-about' },
+          { text: 'Vault-Programs', link: '/vault-program-docs/introduction' },
+          { text: 'Lab Updates', link: '/lab-updates/introduction.md' },
+          { text: 'Extras', link: '/terminology' },
+        ]
+       },
+      { text: 'v1.1.0',
         items: [
           { text: 'Website Changlogs', link: '/lab-updates/website-changelog' }
         ]
@@ -20,6 +29,12 @@ export default defineConfig({
         text: 'Introduction',
         items: [
           { text: 'About Us', link: '/introduction/about-us' }
+        ]
+      },
+      {
+        text: 'Epicentral DAO',
+        items: [
+          { text: 'Introduction', link: '/epicentral-dao/introduction' }
         ]
       },
       {
@@ -40,17 +55,9 @@ export default defineConfig({
         ]
       },
       {
-        text: 'Links',
-        items: [
-          { text: 'X (Twitter)', link: 'https://x.com/EpicentralLabs' },
-          { text: 'Discord', link: 'https://discord.gg/5asAuY2sR8' },
-          { text: 'GitHub', link: 'https://github.com/EpicentralLabs' }
-        ]
-      },
-      {
         text: 'Lab Updates',
         items: [
-          { text: 'Introduction', link: '/lab-updates/understanding-lab-updates.md' },
+          { text: 'Introduction', link: '/lab-updates/introduction.md' },
           { text: 'Changelog [Website]', link: '/lab-updates/website-changelog' },
           { text: 'Changelog [Vault-Programs]', link: '/lab-updates/vault-program-changelog' }
         ]
@@ -60,6 +67,14 @@ export default defineConfig({
         items: [
           { text: 'Terminology', link: '/terminology' },
           { text: 'Legal', link: '/legal' }
+        ]
+      },
+      {
+        text: 'Links',
+        items: [
+          { text: 'X (Twitter)', link: 'https://x.com/EpicentralLabs' },
+          { text: 'Discord', link: 'https://discord.gg/5asAuY2sR8' },
+          { text: 'GitHub', link: 'https://github.com/EpicentralLabs' }
         ]
       }
     ],

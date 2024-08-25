@@ -2,6 +2,16 @@
 
 Most recent version will be presented at the top of the page. All changes made to the website/documentation pages is posted here. With all/any new releases made on GitHub, the description of what has changed is listed here. 
 
+## v1.1.0 (8/25/2024)
+### Added:
+* Epicentral DAO Page/Category.
+* Added a drop down menu to easily navigate between each category.
+### Bug Fix:
+* Updated internal navigation files.
+### Changes:
+* Moved 'LINKS' category to the bottom of the nav bar. 
+* Changed emoji on the "What are LABS?" page for first/top header.
+
 ## v1.0.0 (8/16/2024)
 ### Added:
 * Added "LABS Token" section. [04039ce](https://github.com/TheLazySol/lab-docs/commit/04039ce78419ef18a80e735ded08a9800a9ec625)

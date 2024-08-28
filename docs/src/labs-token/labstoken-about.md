@@ -1,4 +1,4 @@
-# 💬 What are Labs?
+# 🪙 What are Labs?
 
 ***LABS*** is a versatile token that functions as both a governance and utility token within the Solana ecosystem. It is integral to numerous decentralized operations and not limited to centralized operations, including:
 

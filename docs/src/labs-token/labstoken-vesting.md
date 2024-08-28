@@ -70,7 +70,7 @@ Token Vesting is essential in order to reduce large inflationary outcomes and pr
 
 ## 📈 Total Token Accumulation
 
-Self-explanitory. However, it is important to note that over the next 13 months, the circulating supply will increase and will eventually cap at the Total Supply amount. 
+Self-explanitory. However, it is important to note that over the next 16 months, the circulating supply will increase and will eventually cap at the Total Supply amount. 
 
 Understanding how this affects price is important. If you don't understand basic economics such as **supply and demand**, we recommend you [read more about it here](https://www.investopedia.com/ask/answers/033115/how-does-law-supply-and-demand-affect-prices.asp#:~:text=The%20law%20of%20supply%20and%20demand%20centers%20on%20prices%20that,while%20demand%20increases%2C%20prices%20rise.).
 

@@ -7,7 +7,7 @@ Most recent version will be presented at the top of the page. All changes made t
 * Epicentral DAO Page/Category. [1501c26](https://github.com/TheLazySol/lab-docs/commit/1501c26ae9b742598928fe809189aa6f63a4df83)
 * Added a drop down menu to easily navigate between each category. [1501c26](https://github.com/TheLazySol/lab-docs/commit/1501c26ae9b742598928fe809189aa6f63a4df83)
 * Added Introduction page to the DAO Section on nav bar. [94b84b6](https://github.com/TheLazySol/lab-docs/commit/94b84b677987e02aa1af363614e36b7e19a171ec)
-* Added New Proposal & Voting Guide Pages to the DAO Section on the Nav Bar.
+* Added New Proposal & Voting Guide Pages to the DAO Section on the Nav Bar. [88a68df](https://github.com/TheLazySol/lab-docs/commit/88a68df6f2a61f080ff7e7a014ed76926ae4af15)
 ### Bug Fix:
 * Updated internal navigation files. [1501c26](https://github.com/TheLazySol/lab-docs/commit/1501c26ae9b742598928fe809189aa6f63a4df83)
 * Fixed wording under 'Vesting Schedule' page from 13 months >> 16 months -- as this was a calculation mistake now fixed. [94b84b6](https://github.com/TheLazySol/lab-docs/commit/94b84b677987e02aa1af363614e36b7e19a171ec)

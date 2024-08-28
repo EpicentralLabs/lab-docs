@@ -4,9 +4,9 @@ Most recent version will be presented at the top of the page. All changes made t
 
 ## v1.2.0 (8/28/2024)
 ## Added:
-* Added "Roadmap" page in introduction section. 
+* Added "Roadmap" page in introduction section. [dd8d06b](https://github.com/TheLazySol/lab-docs/commit/dd8d06bc4417bd822edcb2e6081cf4aafb1de37a)
 ## Changes:
-* Updated Information for "Epicentral DAO" Section
+* Updated Information for "Epicentral DAO" Section. [dd8d06b](https://github.com/TheLazySol/lab-docs/commit/dd8d06bc4417bd822edcb2e6081cf4aafb1de37a)
 
 ## v1.1.0 (8/25/2024)
 ### Added:

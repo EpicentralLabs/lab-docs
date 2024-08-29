@@ -5,7 +5,7 @@ Most recent version will be presented at the top of the page. All changes made t
 ## v1.1.2 (8/28/2024)
 ### Bug Fix:
 * Fixed, broken link for the EpicentralDAO - Voting Guide Page on Realms. [da141e0](https://github.com/TheLazySol/lab-docs/commit/da141e0467a6ceae7d77761e52a976609a3e1227)
-* Fixed, Chagelog header sizes.
+* Fixed, Chagelog header sizes. [8a28a45](https://github.com/TheLazySol/lab-docs/commit/8a28a45d1dec88f1cae212e79e11386da6f47f07)
 ### Changes:
 * Updated Information for "Epicentral DAO" Section. [dd8d06b](https://github.com/TheLazySol/lab-docs/commit/dd8d06bc4417bd822edcb2e6081cf4aafb1de37a)
 

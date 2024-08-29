@@ -10,7 +10,7 @@ You **must** have at least `0.000000001 LABS` tokens in order to vote. We recomm
 
 ### 1. Go to EpicentralDAO on Realms
 
-[`https://app.realms.today/dao/LABS`]()
+[`https://app.realms.today/dao/LABS`](https://app.realms.today/dao/LABS)
 
 ### 2. Connect your Wallet
 

@@ -39,7 +39,7 @@ Members that have **LABS** delegated are then able to participate in the DAO and
 
 #### 👨‍🔬 Community Members
 
-Anyone that holds **LABS** tokens is eligible to participate in the DAO through both **Voting** and **Proposing**. Below you will find the minimum **LABS** tokens needed in order to do both actions. 
+Anyone that holds **LABS** tokens is eligible to participate in the DAO through both **Voting** and **Proposing**. in the [Minimum Requirements to Participate](/epicentral-dao/introduction#🏛-mininmum-requirements-to-participate) section, you will find the minimum **LABS** tokens needed in order to do both actions. 
 
 | Attribute               | Value   |
 |-------------------------|---------|

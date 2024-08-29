@@ -2,6 +2,12 @@
 
 Most recent version will be presented at the top of the page. All changes made to the website/documentation pages is posted here. With all/any new releases made on GitHub, the description of what has changed is listed here. 
 
+## v1.2.0 (8/29/2024)
+### Added: 
+* EpicentralDAO Button to Homepage.
+### Changes:
+* Updated header caption on docs homepage.
+
 ## v1.1.2 (8/28/2024)
 ### Bug Fix:
 * Fixed, broken link for the EpicentralDAO - Voting Guide Page on Realms. [da141e0](https://github.com/TheLazySol/lab-docs/commit/da141e0467a6ceae7d77761e52a976609a3e1227)

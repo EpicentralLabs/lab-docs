@@ -14,7 +14,7 @@ hero:
       link: https://app.realms.today/dao/LABS      
     - theme: alt
       text: Official Links ==>
-      link: https://x.com/EpicentralLabs
+      link: https://linktr.ee/EpicentralLabs
     - theme: alt
       text: Join our Discord! ==>
       link: https://discord.gg/5asAuY2sR8

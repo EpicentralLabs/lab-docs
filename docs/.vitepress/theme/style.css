@@ -146,7 +146,8 @@ details {
   padding-top: 1px;
   padding-bottom: 4px;
   padding-left: 20px;
-  background-color: #313131; /* Set background color */
+  padding-right: 20px;
+  background-color: #292929; /* Set background color */
 }
 
 /* Customize the <summary> element */
@@ -160,5 +161,5 @@ summary {
 /* Indent nested <details> elements */
 details details {
   margin-left: 20px;
-  background-color: #3a3a3a; /* Ensure nested details have the same background color */
+  background-color: #313131; /* Ensure nested details have the same background color */
 }

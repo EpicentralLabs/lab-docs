@@ -12,13 +12,16 @@ This page covers whats been completed and what's to come in future timeframes of
   <details open>
     <summary><span style="color:#00FFA3">Documentation Site</span></summary>
 
-  - ~~**v0.1.0 Release**~~
+  - **v0.1.0 Release**
+
     - With the release of `v0.1.0`, the core team as well as members within the community will be able to better visualize and understand what Epicentral Labs is all about.
   
-  - ~~**v0.2.0 Release**~~
+  - **v0.2.0 Release**
+
     - Release all LABS Token detailed information in preparation for the token launch date. (07/24/2024 @ 00:00 UTC).
   
-  - ~~**v0.3.0 Release**~~
+  - **v0.3.0 Release**
+
     - Vesting Contracts Explained. Improvise new look to LABS Token details. Update information and ensure that all information is correct.
 
   </details>
@@ -26,7 +29,7 @@ This page covers whats been completed and what's to come in future timeframes of
   <details open>
     <summary><span style="color:#00FFA3">LABS Token</span></summary>
 
-  - ~~**Launch LABS Token**~~
+  - **Launch LABS Token**
 
     - Launch LABS/USDC Pair via Raydium CPMM.
     - Update DEX Screener Information.
@@ -42,6 +45,7 @@ This page covers whats been completed and what's to come in future timeframes of
     <summary><span style="color:#00FFA3">Documentation Site</span></summary>
   
   - **v1.0.0 Release**
+
     - Release the documentation site for production use. All necessary information about the entirety of the project is released.
 
   </details>
@@ -50,8 +54,22 @@ This page covers whats been completed and what's to come in future timeframes of
     <summary><span style="color:#00FFA3">Events</span></summary>
   
   - **AMA "In The Lab" Episodes**
-    - AMA (Ask Me Anything) Events are important to build a better relationship with the ever-growing Solana space. "In The Lab" episodes are a special twist to how AMAs normally occur.  
 
+    - AMA (Ask Me Anything) Events are important to build a better relationship with the ever-growing Solana space. **"In The Lab"** episodes are a special twist to how AMAs normally occur. These episodes work close to how podcasts would occur. During these episodes, the team covers details and various work-in-progress updates about Epicentral Labs. During the episodes, members who participate during the live episode are able to ask questions about the project.
+    - **AMA "In The Lab" EP-1**
+      - Listen on **YouTube** [here](https://youtu.be/w2NzjcgAQqE).
+      - Listen on **X (Twitter)** [here](https://x.com/EpicentralLabs/status/1827359852768743748).
+
+  </details>
+
+  <details open>
+    <summary><span style="color:#00FFA3">EpicentralDAO</span></summary>
+  
+  - **Launch EpicentralDAO**
+  
+    - A Decentralized Autonomous Organization is a community with a shared bank account. Members of the DAO make decisions in a transparent and decentralized fashion, with smart contracts executing these decisions. [Read more](/epicentral-dao/introduction)
+    - Create the first community proposal.
+  
   </details>
 
 </details>

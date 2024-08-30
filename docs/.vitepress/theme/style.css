@@ -136,3 +136,29 @@
 .DocSearch {
   --docsearch-primary-color: var(--vp-c-brand-1) !important;
 }
+
+/** Roadmap Stuff */
+/* Customize the <details> element */
+details {
+  border-radius: 12px; /* Increase border-radius for more rounded corners */
+  margin-bottom: 8px;
+  margin-right: 10px;
+  padding-top: 1px;
+  padding-bottom: 4px;
+  padding-left: 20px;
+  background-color: #313131; /* Set background color */
+}
+
+/* Customize the <summary> element */
+summary {
+  cursor: pointer;
+  margin-bottom: 4px;
+  color: #fff; /* Optional: Set text color to white for better contrast */
+  font-weight: bold; /* Optional: Add bold text style */
+}
+
+/* Indent nested <details> elements */
+details details {
+  margin-left: 20px;
+  background-color: #3a3a3a; /* Ensure nested details have the same background color */
+}

@@ -6,6 +6,9 @@ export default defineConfig({
   ignoreDeadLinks: true,
   srcDir: './src',
   themeConfig: {
+    lastUpdated: {
+      text: 'Last Updated'
+    },
     nav: [
       { text: 'Menu',
         items: [
@@ -17,11 +20,7 @@ export default defineConfig({
           { text: 'Extras', link: '/terminology' },
         ]
        },
-      { text: 'v1.1.0',
-        items: [
-          { text: 'Website Changlogs', link: '/lab-updates/website-changelog' }
-        ]
-       }
+      { text: 'v1.1.0', link: '/lab-updates/website-changelog' }//current version of the site.
     ],
 
     sidebar: [
@@ -29,7 +28,7 @@ export default defineConfig({
         text: 'Introduction',
         items: [
           { text: 'About Us', link: '/introduction/about-us' },
-         // { text: 'Roadmap', link: '/introduction/roadmap' }
+          { text: 'Roadmap', link: '/introduction/roadmap' }
         ]
       },
       {

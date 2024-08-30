@@ -83,7 +83,9 @@ export default defineConfig({
 
     socialLinks: [
       { icon: 'twitter', link: `https://x.com/EpicentralLabs` },
-      { icon: 'github', link: 'https://github.com/EpicentralLabs' }
+      { icon: 'github', link: 'https://github.com/EpicentralLabs' },
+      { icon: 'discord', link: 'https://discord.gg/5asAuY2sR8' },
+      { icon: 'youtube', link: 'https://www.youtube.com/@EpicentralLabs/featured' },
     ]
   }
 })

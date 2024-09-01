@@ -1,4 +1,4 @@
-# 🏛️ Epicentral DAO
+# 🏛️ EpicentralDAO
 
 ---
 

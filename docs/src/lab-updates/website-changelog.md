@@ -11,6 +11,7 @@ Most recent version will be presented at the top of the page. All changes made t
 * Added more information to Roadmap page. [3c60667](https://github.com/TheLazySol/lab-docs/commit/3c606677a2ea3f196c346f3b4907f1d8df2d61af)
 ### Changes:
 * Updated header caption on docs homepage. [19ece40](https://github.com/TheLazySol/lab-docs/commit/19ece407fcdb2993cd9bae43079a55a1fcf756cb)
+* Fixed spacing between "Epicentral" and "DAO". []()
 
 ## v1.1.2 (8/28/2024)
 ### Bug Fix:

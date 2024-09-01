@@ -13,7 +13,7 @@ export default defineConfig({
       { text: 'Menu',
         items: [
           { text: 'Home', link: '/' },
-          { text: 'Epicentral DAO', link: '/epicentral-dao/introduction' },
+          { text: 'EpicentralDAO', link: '/epicentral-dao/introduction' },
           { text: 'LABS Token', link: '/labs-token/labstoken-about' },
           { text: 'Vault-Programs', link: '/vault-program-docs/introduction' },
           { text: 'Lab Updates', link: '/lab-updates/introduction.md' },

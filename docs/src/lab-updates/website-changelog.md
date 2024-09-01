@@ -9,7 +9,8 @@ Most recent version will be presented at the top of the page. All changes made t
 * Added "Roadmap" page with customized style. [4991d77](https://github.com/TheLazySol/lab-docs/commit/4991d77b3ab47ae08faf2b3e1935ecef4033bf61)
 * Added Discord & YouTube Icon + Hyperlink to top navbar. [3c60667](https://github.com/TheLazySol/lab-docs/commit/3c606677a2ea3f196c346f3b4907f1d8df2d61af)
 * Added more information to Roadmap page. [3c60667](https://github.com/TheLazySol/lab-docs/commit/3c606677a2ea3f196c346f3b4907f1d8df2d61af)
-* Added LP Burn Transaction in "Token Details" page.
+* Added LP Burn Transaction in "Token Details" page. [1d73500](https://github.com/TheLazySol/lab-docs/commit/1d735006b26a1445c1e219d5d37e25c755194d4c)
+* Added warning "WIP" label for Vault-Programs. 
 ### Changes:
 * Updated header caption on docs homepage. [19ece40](https://github.com/TheLazySol/lab-docs/commit/19ece407fcdb2993cd9bae43079a55a1fcf756cb)
 * Fixed spacing between "Epicentral" and "DAO". [22bd1b5](https://github.com/TheLazySol/lab-docs/commit/22bd1b5fd8674ff019255fb20cce142fe6b51222)

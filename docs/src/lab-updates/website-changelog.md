@@ -2,7 +2,13 @@
 
 Most recent version will be presented at the top of the page. All changes made to the website/documentation pages is posted here. With all/any new releases made on GitHub, the description of what has changed is listed here. 
 
-## v1.2.0 (8/30/2024)
+## v1.2.1 (9/1/2024)
+### Changes:
+* Corrected the versioning date in the changelog.
+### Bug Fix: 
+* Fixed dropdown menu from opening up by default in the September 2024 roadmap category.
+
+## v1.2.0 (9/1/2024)
 ### Added:
 * EpicentralDAO Button to Homepage.[19ece40](https://github.com/TheLazySol/lab-docs/commit/19ece407fcdb2993cd9bae43079a55a1fcf756cb)
 * Added "Last Updated" to the bottom of the page for ease of reference of when the page was last updated. [1b549d5](https://github.com/TheLazySol/lab-docs/commit/1b549d51644af044cfda7586a9cb0da5037e9b78)

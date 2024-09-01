@@ -4,14 +4,17 @@ layout: home
 hero:
   name: "Epicentral Labs"
   text: "Innovation on Solana"
-  tagline: Dev-tooling & real app integrations...
+  tagline: Dev-tooling & App Integrations...
   actions:
     - theme: brand
       text: Open Docs
       link: /introduction/about-us
     - theme: alt
-      text: Follow us on X! ==>
-      link: https://x.com/EpicentralLabs
+      text: EpicentralDAO==>
+      link: https://app.realms.today/dao/LABS      
+    - theme: alt
+      text: Official Links ==>
+      link: https://linktr.ee/EpicentralLabs
     - theme: alt
       text: Join our Discord! ==>
       link: https://discord.gg/5asAuY2sR8

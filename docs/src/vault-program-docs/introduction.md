@@ -1,5 +1,11 @@
 # Introduction 
 
+::: warning Work In Progress
+
+Please note that this is a **work in progress** and information is subject to change. 
+
+:::
+
 Vault-Programs are an interactive [decentralized application (dApp)](/terminology#decentralized-application-dapp) built on Solana that allow projects to expand with customizable interest-bearing programs. These programs, known as [Vaults](/terminology#vault), enable community developers and [DAOs](/terminology#decentralized-autonomous-organization-dao) to incentivize investors, traders, and [DeFi](/terminology#decentralized-finance-defi) enthusiasts to earn seamlessly by essentially [staking](/terminology#staking) their tokens in return for more.
 
 Vault-Programs provide an environment for other projects to create customizable "savings accounts" on Solana for their native token projects ([SPL-token projects](/terminology#spl-token)).

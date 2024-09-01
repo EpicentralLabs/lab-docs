@@ -2,85 +2,150 @@
 
 ---
 
-This page covers whats been completed and what's to come in future timeframes of **Q3** and **Q4 2024**
+This page covers whats been completed and what's to come in future timeframes of **Q3** and **Q4 2024**. Anything ~~crossed out~~ has been completed. 
 
-# **<span style="color:#00FFA3">Q3 - 2024</span>**
+## **<span style="color:#00FFA3">Q3 - 2024</span>**
 
-### Website & Token Launch
+<details>
+  <summary>July 2024</summary>
 
-- ~~**<span style="color:#00D4C1">Launch $LABS Token</span>**~~
+  <details>
+    <summary><span style="color:#00FFA3">Documentation Site</span></summary>
 
-  - ~~Publish Dex Screener Information~~
-  - ~~Create LABS/USDC pair~~
-  - Create LABS/SOL pair
+  - **v0.1.0 Release**
 
-- **Submit listing applications to:**
-  - ~~CoinGecko~~
-  - ~~DexLab~~
-  - CoinMarketCap
-
-### <span style="color:#00D4C1">Epicentral Labs DAO Launch</span>
-
-- **Launch Epicentral Labs DAO**
-  - Host community proposals and decision-making.
-
-### AMA / “In The Lab” Events
-
-- **Host 3 AMA/”In The Lab” Events:**
-  - Exact dates: TBD (On Discord & X)
-  - ~~1 in August.~~
-  - 2 in September.
-  - 1 in October
-  - 1 in November
-  - 1 in December
-
-### Discord Community Events
-
-- **Creative Arts Competition for 100,000 $LABS:**
-  - Date: September 23rd-30th.
-- **Dedicated Discord Giveaway(s):**
-  - 2 in August.
-  - 2 in September.
-
-### Collaborations
-
-- **Collaborate with 2 other Solana Projects:**
-  - With an established project.
-  - With a start-up project.
-
-### Airdrop Campaigns
-
-- **Launch our first Airdrop via Liquid Staking Options (LSOs):**
-  - Date: August / Exact Date: TBD
-- **Launch our second Airdrop via Liquid Staking Options (LSOs):**
-  - Date: October / Exact Date: TBD
-
-### The Token Lab Development
-
-- **<span style="color:#00D4C1">Initialize production of The Token Lab</span>:**
-  - Solana’s go-to Token Creator: All-in-One Token Minter + Metadata Uploader.
-  - Low Cost (< 0.1 SOL).
-  - No Code necessary - none.
-  - Simple UI - It’s really that simple.
-  - Ultimate Transparency - we are tired of scams too...
-- **Optimize The Token Lab:**
-  - Create utility for a collaborative SPL-token project.
-  - Incubate a new start-up project & instantly offer utility.
+    - With the release of `v0.1.0`, the core team as well as members within the community will be able to better visualize and understand what Epicentral Labs is all about.
   
-### Liquidity Initiatives
+  - **v0.2.0 Release**
 
-- **<span style="color:#00D4C1">Initialize Raydium $LABS Farm to incentivize Liquidity Providers</span>**
-- **Create a CLMM for LABS/USDC & LABS/SOL on Raydium:**
-  - Concentrated Liquidity Market Maker.
-- **Create a DLMM for LABS/USDC & LABS/SOL on Meteora:**
-  - Dynamic Liquidity Market Maker.
+    - Release all LABS Token detailed information in preparation for the token launch date. (07/24/2024 @ 00:00 UTC).
+  
+  - **v0.3.0 Release**
 
-### SolChess Development
+    - Vesting Contracts Explained. Improvise new look to LABS Token details. Update information and ensure that all information is correct.
 
-- **<span style="color:#00D4C1">Initialize production for SolChess</span>:**
-  - Solana’s first decentralized & wagerable online chess game.
-  - More details: TBD!
+  </details>
 
-### Participation in Hackathons
+  <details>
+    <summary><span style="color:#00FFA3">LABS Token</span></summary>
 
-- **<span style="color:#00D4C1">Join Colosseum’s Radar Hackathon</span>**
+  - **Launch LABS Token**
+
+    - Launch LABS/USDC Pair via Raydium CPMM.
+    - Update DEX Screener Information.
+
+  </details>
+
+</details>
+
+<details>
+  <summary>August 2024</summary>
+
+  <details>
+    <summary><span style="color:#00FFA3">Documentation Site</span></summary>
+  
+  - **v1.0.0 Release**
+
+    - Release the documentation site for production use. All necessary information about the entirety of the project is released.
+
+  </details>
+
+  <details>
+    <summary><span style="color:#00FFA3">Events</span></summary>
+  
+  - **AMA "In The Lab" Episodes**
+
+    - AMA (Ask Me Anything) Events are important to build a better relationship with the ever-growing Solana space. **"In The Lab"** episodes are a special twist to how AMAs normally occur. These episodes work close to how podcasts would occur. During these episodes, the team covers details and various work-in-progress updates about Epicentral Labs. During the episodes, members who participate during the live episode are able to ask questions about the project.
+    - **AMA "In The Lab" EP-1**
+      - Listen on **YouTube** [here](https://youtu.be/w2NzjcgAQqE).
+      - Listen on **X (Twitter)** [here](https://x.com/EpicentralLabs/status/1827359852768743748).
+
+  </details>
+
+  <details open>
+    <summary><span style="color:#00FFA3">Collaborations</span></summary>
+
+  - **Streamflow Finance**
+
+    - Streamflow Finance allowed the team to create vesting contracts that are locked away for a certain period of time. You can learn/read more about the vesting contracts in our documentation here: [LABS Token Vesting Schedule](/labs-token/labstoken-vesting#📆-labs-token-vesting-schedule)
+
+  - **Realms**
+
+    - Realms provides tooling to help us create the [EpicentralDAO](/epicentral-dao/introduction#🏛-epicentraldao). Realms utilized the native governance programs on Solana and created a good-to-go UI for projects like ourselves who need that self governance with ease. 
+
+  </details> 
+
+  <details>
+    <summary><span style="color:#00FFA3">EpicentralDAO</span></summary>
+  
+  - **Launch EpicentralDAO**
+  
+    - A Decentralized Autonomous Organization is a community with a shared bank account. Members of the DAO make decisions in a transparent and decentralized fashion, with smart contracts executing these decisions. [Read more](/epicentral-dao/introduction)
+    - Create the first community proposal to create LABS/USDC CLMM Pool and use funds from the DAO Treasury to provide locked liquidity.
+  
+  </details>
+
+  <details>
+    <summary><span style="color:#00FFA3">The Token Lab</span></summary>
+  
+  - **New Project: "The Token Lab"**
+      
+    - With the approach of Colosseum's Radar Hackathon, Epicentral Labs has a focus of creating a low-cost, simple, and transparent Solana Token Creator/Minter. 
+    - The Token Lab provides automatic metadata upload, giving its users a trustworthy, no-code approach for Solana projects. 
+    - A developer tool, that eliminates the unnecessary steps and barriers needed to create/mint tokens on Solana.
+    - A transparent application that gives users the option to either pay with SOL or LABS.
+  
+  </details>
+ 
+</details>
+
+<details>
+  <summary>September 2024</summary>
+
+  <details>
+    <summary><span style="color:#00FFA3">Events</span></summary>
+
+  - **Colosseum Organization: Radar Hackathon**
+
+    -  The Radar Hackathon powered by Colosseum Organization, is the largest online global event hosted by the Solana Foundation. Epicentral Labs is participating in this hackathon with **The Token Lab** being the project of submission. 
+
+  - **AMA "In The Lab" EP-2**
+
+  - **AMA "In The Lab" EP-3**
+
+  </details>
+
+  <details>
+    <summary><span style="color:#00FFA3">LABS Token</span></summary>
+  
+  - **Create LABS/USDC CLMM Pool**
+    
+    - Instead of a traditional AMM (Automated Market Maker) Pool with a `0.25%` swap fees on Raydium, a CLMM (Concentrated Liquidity Market Maker) Pool is more capital efficient for capital efficient for liqudity providers. The Epicentral Team is to release a LABS/USDC CLMM pool with `0.05%` swap fees instead.
+  
+  - **Create LABS/JitoSOL CLMM Pool**
+
+  - **Initialize LABS Token Farming**
+
+    - Create a Farm using the DAO Trasury funds on Raydium to incentivise liquidity providers. Amount has not been determined yet.
+
+  </details>
+
+  <details>
+    <summary><span style="color:#00FFA3">The Token Lab</span></summary>
+
+  - **Launch The Token Lab on Devnet**
+
+    - The Token Lab is to be fully functional on Solana Devnet with a finished frontend user interface.
+
+  </details>
+
+  <details>
+    <summary><span style="color:#00FFA3">Collaborations</span></summary>
+
+  - **Collaborate with Dual Finance**
+
+    - Dual Finance offers a new token incentive mechanism by granting users (and the team) from the Epicentral Community to lock-up liquid token for the right, but not the obligation, to purchase tokens at a specific future price. This is known as Staking Options. This will offer better and more sustainable liquidity offering for Epicentral Labs. Learn more [here](https://www.dual.finance/).
+
+  </details>
+
+</details>

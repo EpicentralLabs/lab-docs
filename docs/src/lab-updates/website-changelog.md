@@ -13,7 +13,7 @@ Most recent version will be presented at the top of the page. All changes made t
 ### Changes:
 * Updated header caption on docs homepage. [19ece40](https://github.com/TheLazySol/lab-docs/commit/19ece407fcdb2993cd9bae43079a55a1fcf756cb)
 * Fixed spacing between "Epicentral" and "DAO". [22bd1b5](https://github.com/TheLazySol/lab-docs/commit/22bd1b5fd8674ff019255fb20cce142fe6b51222)
-* Changed page name "Details" -> "Token Details"
+* Changed page name "Details" -> "Token Details" [1d73500](https://github.com/TheLazySol/lab-docs/commit/1d735006b26a1445c1e219d5d37e25c755194d4c)
 
 ## v1.1.2 (8/28/2024)
 ### Bug Fix:

@@ -62,7 +62,7 @@ This page covers whats been completed and what's to come in future timeframes of
 
   </details>
 
-  <details open>
+  <details>
     <summary><span style="color:#00FFA3">Collaborations</span></summary>
 
   - **Streamflow Finance**

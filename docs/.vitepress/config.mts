@@ -43,7 +43,7 @@ export default defineConfig({
         text: 'LABS Token',
         items: [
           { text: 'What are LABS?', link: '/labs-token/labstoken-about' },
-          { text: 'Details', link: '/labs-token/labstoken-details' },
+          { text: 'Token Details', link: '/labs-token/labstoken-details' },
           { text: 'Tokenomics', link: '/labs-token/labstoken-tokenomics' },
           { text: 'Vesting Schedule', link: '/labs-token/labstoken-vesting' }
         ]

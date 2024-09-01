@@ -31,6 +31,10 @@
 |:--------:|:----:|:---------:|:----------:|
 | `Raydium:` | `LABS/USDC` | [`CPMM Pool`](https://raydium.io/liquidity/increase/?mode=add&pool_id=3wxhFgvVYGStoQj3XvMArNQF66WamWcVy4EgwBJfK1bM) | [`Docs`](https://docs.raydium.io/raydium/liquidity-providers/liquidity-pools) |
 
+## 🔥 LP Burned Tx
+
+[`41WyQ3DSwRtneyrRyziezEccMSAs5vrLbqsWNd3jpSQaz7avHXwnzzU4tQUntDRtdpUpC7Db3eaUKEGL41YpN3MT`](https://solscan.io/tx/41WyQ3DSwRtneyrRyziezEccMSAs5vrLbqsWNd3jpSQaz7avHXwnzzU4tQUntDRtdpUpC7Db3eaUKEGL41YpN3MT)
+
 ---
 
 ::: warning 💡 **Note:** 

@@ -74,7 +74,7 @@ This page covers whats been completed and what's to come in future timeframes of
     - Realms provides tooling to help us create the [EpicentralDAO](/epicentral-dao/introduction#🏛-epicentraldao). Realms utilized the native governance programs on Solana and created a good-to-go UI for projects like ourselves who need that self governance with ease. 
 
   </details> 
-  
+
   <details>
     <summary><span style="color:#00FFA3">EpicentralDAO</span></summary>
   
@@ -99,10 +99,10 @@ This page covers whats been completed and what's to come in future timeframes of
  
 </details>
 
-<details open>
+<details>
   <summary>September 2024</summary>
 
-  <details open>
+  <details>
     <summary><span style="color:#00FFA3">Events</span></summary>
 
   - **Colosseum Organization: Radar Hackathon**
@@ -115,7 +115,7 @@ This page covers whats been completed and what's to come in future timeframes of
 
   </details>
 
-  <details open>
+  <details>
     <summary><span style="color:#00FFA3">LABS Token</span></summary>
   
   - **Create LABS/USDC CLMM Pool**
@@ -130,7 +130,7 @@ This page covers whats been completed and what's to come in future timeframes of
 
   </details>
 
-  <details open>
+  <details>
     <summary><span style="color:#00FFA3">The Token Lab</span></summary>
 
   - **Launch The Token Lab on Devnet**
@@ -139,7 +139,7 @@ This page covers whats been completed and what's to come in future timeframes of
 
   </details>
 
-  <details open>
+  <details>
     <summary><span style="color:#00FFA3">Collaborations</span></summary>
 
   - **Collaborate with Dual Finance**

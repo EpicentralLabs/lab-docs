@@ -6,7 +6,7 @@ Most recent version will be presented at the top of the page. All changes made t
 ### Added:
 * EpicentralDAO Button to Homepage.[19ece40](https://github.com/TheLazySol/lab-docs/commit/19ece407fcdb2993cd9bae43079a55a1fcf756cb)
 * Added "Last Updated" to the bottom of the page for ease of reference of when the page was last updated. [1b549d5](https://github.com/TheLazySol/lab-docs/commit/1b549d51644af044cfda7586a9cb0da5037e9b78)
-* Added "Roadmap" page with customized style. [1b549d5](https://github.com/TheLazySol/lab-docs/commit/1b549d51644af044cfda7586a9cb0da5037e9b78)
+* Added "Roadmap" page with customized style. [4991d77](https://github.com/TheLazySol/lab-docs/commit/4991d77b3ab47ae08faf2b3e1935ecef4033bf61)
 * Added Discord & YouTube Icon + Hyperlink to top navbar. [3c60667](https://github.com/TheLazySol/lab-docs/commit/3c606677a2ea3f196c346f3b4907f1d8df2d61af)
 * Added more information to Roadmap page. [3c60667](https://github.com/TheLazySol/lab-docs/commit/3c606677a2ea3f196c346f3b4907f1d8df2d61af)
 ### Changes:

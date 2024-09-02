@@ -5,6 +5,7 @@ Most recent version will be presented at the top of the page. All changes made t
 ## v1.2.2 (9/1/2024)
 ### Added:
 * Added JitoSOL pair and CLMM information on the "Token Details" page. [843e750](https://github.com/TheLazySol/lab-docs/commit/843e75014b99a1a0e36a9046096f1ed0c707e2f9)
+
 ## v1.2.1 (9/1/2024)
 ### Changes:
 * Corrected the versioning date in the changelog. [e7957b7](https://github.com/TheLazySol/lab-docs/commit/e7957b72a4ef70e2892a63289255064a9d54ffe4)

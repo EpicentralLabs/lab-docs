@@ -89,6 +89,6 @@ export default defineConfig({
     ]
   },
   head: [
-    ['link', { rel: 'icon', href: './public/Epicentral-Labs-Logo.ico' }]
+    ['link', { rel: 'icon', type: 'image/png', href: '/Epicentral-Labs-Logo.ico' }]
   ]
 })

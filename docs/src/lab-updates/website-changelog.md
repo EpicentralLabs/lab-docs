@@ -2,8 +2,12 @@
 
 Most recent version will be presented at the top of the page. All changes made to the website/documentation pages is posted here. With all/any new releases made on GitHub, the description of what has changed is listed here. 
 
-## v1.2.3 (9/8/2024)
+## v1.2.4 (9/8/2024)
 ### Bug Fix:
+* Fixed Missing Favicon after addition. []()
+
+## v1.2.3 (9/8/2024)
+### Added:
 * Added favicon to the site. [b156f15](https://github.com/TheLazySol/lab-docs/commit/b156f153a008c4e4e59b9cac9fac94c91c2f3e2d)
 
 ## v1.2.2 (9/1/2024)

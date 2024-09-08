@@ -2,6 +2,10 @@
 
 Most recent version will be presented at the top of the page. All changes made to the website/documentation pages is posted here. With all/any new releases made on GitHub, the description of what has changed is listed here. 
 
+## v1.2.3 (9/8/2024)
+### Bug Fix:
+* Added favicon to the site.
+
 ## v1.2.2 (9/1/2024)
 ### Added:
 * Added JitoSOL pair and CLMM information on the "Token Details" page. [843e750](https://github.com/TheLazySol/lab-docs/commit/843e75014b99a1a0e36a9046096f1ed0c707e2f9)

@@ -4,7 +4,7 @@ Most recent version will be presented at the top of the page. All changes made t
 
 ## v1.2.4 (9/8/2024)
 ### Bug Fix:
-* Fixed Missing Favicon after addition. []()
+* Fixed Missing Favicon after addition. [e0800ea](https://github.com/TheLazySol/lab-docs/commit/e0800ea91e003e4048467907fc1e14e871ac6569)
 
 ## v1.2.3 (9/8/2024)
 ### Added:

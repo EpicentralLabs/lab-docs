@@ -4,7 +4,7 @@ Most recent version will be presented at the top of the page. All changes made t
 
 ## v1.2.3 (9/8/2024)
 ### Bug Fix:
-* Added favicon to the site.
+* Added favicon to the site. [b156f15](https://github.com/TheLazySol/lab-docs/commit/b156f153a008c4e4e59b9cac9fac94c91c2f3e2d)
 
 ## v1.2.2 (9/1/2024)
 ### Added:

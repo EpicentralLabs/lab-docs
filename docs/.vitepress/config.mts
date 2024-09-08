@@ -20,7 +20,7 @@ export default defineConfig({
           { text: 'Extras', link: '/terminology' },
         ]
        },
-      { text: 'v1.2.2', link: '/lab-updates/website-changelog' }//current version of the site.
+      { text: 'v1.2.3', link: '/lab-updates/website-changelog' }//current version of the site.
     ],
 
     sidebar: [

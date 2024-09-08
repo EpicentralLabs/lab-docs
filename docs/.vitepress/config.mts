@@ -2,7 +2,7 @@ import { defineConfig } from 'vitepress'
 
 export default defineConfig({
   title: "Epicentral Labs",
-  description: "Accelerate Project Incentives",
+  description: "Dev Tooling & App Integrations",
   ignoreDeadLinks: true,
   srcDir: './src',
   themeConfig: {
@@ -20,7 +20,7 @@ export default defineConfig({
           { text: 'Extras', link: '/terminology' },
         ]
        },
-      { text: 'v1.2.2', link: '/lab-updates/website-changelog' }//current version of the site.
+      { text: 'v1.2.3', link: '/lab-updates/website-changelog' }//current version of the site.
     ],
 
     sidebar: [
@@ -87,5 +87,8 @@ export default defineConfig({
       { icon: 'discord', link: 'https://discord.gg/5asAuY2sR8' },
       { icon: 'youtube', link: 'https://www.youtube.com/@EpicentralLabs/featured' },
     ]
-  }
+  },
+  head: [
+    ['link', { rel: 'icon', href: './public/Epicentral-Labs-Logo.ico' }]
+  ]
 })
